@@ -670,3 +670,69 @@
 .vv-dark .vv-mascot-says { background: oklch(0.95 0.03 90); }
 .vv-dark .vv-item.vv-sheet, .vv-dark.vv-item.vv-sheet { background: var(--vv-ground); }
 .vv-dark .vv-subtitle { color: var(--vv-muted); }
+
+/* ========================================================================
+   COMPACT BANNER (v0.6.3): the header took too much height and had dead space.
+   Smaller portrait, name and badges; identity pickers and the stat badges sit tighter.
+   ======================================================================== */
+.vv-banner { padding-top: 0.55rem; }
+.vv-bn-top { gap: 0.8rem; }
+.vv-portrait { width: 5.4rem; height: 5.4rem; box-shadow: 3px 3px 0 var(--vv-accent); transform: rotate(-2deg); }
+.vv-sheet .vv-identity input.vv-name { font-size: 2.5rem; min-height: 2.7rem; padding: 0; line-height: 1.1; }
+.vv-identity { gap: 0.15rem; }
+.vv-subtitle { margin: -0.1rem 0 0.1rem; font-size: 0.9375rem; }
+.vv-picks { gap: 0.25rem 0.6rem; }
+.vv-pick { flex: 1 1 8.5rem; max-width: 12.5rem; gap: 0; }
+.vv-picks .vv-pick:first-child { flex-basis: 11rem; max-width: 14rem; }
+.vv-pick > span:first-child { font-size: 0.5625rem; }
+.vv-sheet .vv-pick select { height: 1.65rem; font-size: 0.8125rem; }
+.vv-pick-box.vv-chips { min-height: 1.65rem; }
+.vv-level { width: 3.9rem; height: 3.9rem; }
+.vv-level > span { top: 0.8rem; font-size: 0.5rem; }
+.vv-sheet .vv-level input { width: 2.6rem; height: 1.7rem; margin-top: 0.55rem; font-size: 1.45rem; }
+
+/* one tight row: armour, four abilities, meters */
+.vv-bn-mid { grid-template-columns: auto minmax(0, 1fr) minmax(14rem, 17.5rem); gap: 0.8rem; margin-top: 0.4rem; }
+.vv-shield { width: 3.5rem; height: 4.1rem; }
+.vv-shield-num { font-size: 1.15rem; margin-top: -0.4rem; }
+.vv-shield-label { bottom: 1rem; font-size: 0.5rem; }
+.vv-hexes { gap: 0.3rem 0.5rem; flex-wrap: nowrap; }
+.vv-hexwrap { gap: 0.1rem; }
+.vv-hex { width: 3.7rem; height: 4.1rem; }
+.vv-hex-label { top: 0.65rem; font-size: 0.5rem; }
+.vv-hex-num { margin-top: 0.4rem; font-size: 1.6rem; }
+.vv-sheet .vv-hex-base input { width: 2.3rem; height: 1.2rem; font-size: 0.6875rem; }
+.vv-meters { gap: 0.3rem; }
+.vv-meter-pair { gap: 0.3rem; }
+.vv-meter { padding: 0.2rem 0.55rem 0.4rem; }
+.vv-meter-life { padding-top: 0.25rem; padding-bottom: 0.45rem; }
+.vv-meter-life .vv-meter-num input { height: 1.7rem; font-size: 1.4rem; }
+.vv-sheet .vv-meter-num input { height: 1.4rem; font-size: 1rem; }
+.vv-meter-bar { height: 3px; }
+
+/* tabs closer to the content above */
+.vv-tabs { margin-top: 0.5rem; }
+.vv-tabs button { padding-top: 0.4rem; padding-bottom: 0.4rem; }
+.vv-wordmark { font-size: 1.7rem; }
+
+@container (max-width: 940px) { .vv-hexes { flex-wrap: wrap; } }
+@container (max-width: 700px) {
+  .vv-portrait { width: 4.6rem; height: 4.6rem; }
+  .vv-sheet .vv-identity input.vv-name { font-size: 2rem; min-height: 2.2rem; }
+  .vv-level { width: 3.3rem; height: 3.3rem; }
+  .vv-hexes { flex-wrap: wrap; }
+}
+
+/* no wrapped rows: race pill and class chips stay on one line; badges sit next to the shield */
+.vv-pick-box { flex-wrap: nowrap; }
+.vv-sheet .vv-pick .vv-pill { flex: 0 1 auto; max-width: 7.5rem; overflow: hidden; text-overflow: ellipsis; }
+.vv-sheet .vv-pick select { flex: 1 1 4rem; }
+.vv-pick-box .vv-chip { flex: 0 0 auto; }
+.vv-sheet .vv-pick-box .vv-addclass { flex: 1 1 3.2rem; min-width: 3.2rem; }
+.vv-picks .vv-pick:last-child { flex: 1.4 1 11rem; max-width: 16rem; }
+.vv-bn-mid { grid-template-columns: auto auto minmax(14rem, 1fr); justify-content: start; align-items: start; }
+.vv-hexes { justify-content: flex-start; }
+.vv-meters { justify-self: end; width: min(100%, 17.5rem); margin-left: auto; }
+.vv-shield { margin-top: 0.1rem; }
+@container (max-width: 940px) { .vv-bn-mid { grid-template-columns: auto minmax(0, 1fr); } .vv-meters { grid-column: 1 / -1; width: 100%; } }
+@container (max-width: 700px) { .vv-pick-box { flex-wrap: wrap; } }

@@ -2,7 +2,7 @@
   "id": "vice-and-violence",
   "title": "Vice & Violence",
   "description": "Rules-light, procedure-heavy adventurer-life RPG for Foundry VTT v14.",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "compatibility": {
     "minimum": "14",
     "verified": "14.364",
@@ -48,7 +48,7 @@
   "primaryTokenAttribute": "life",
   "secondaryTokenAttribute": "exertion",
   "styles": [
-    "styles/vv-0.6.1.css"
+    "styles/vv-0.6.3.css"
   ],
   "packs": [
     {
