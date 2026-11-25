@@ -1,0 +1,21 @@
+{
+  "_id": "PHpfN9dUN0lWBymY",
+  "_key": "!items!PHpfN9dUN0lWBymY",
+  "name": "Revitalise",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Gives an ally 3 Exertion uses. Once a day per ally.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "j9Xmq0O0kk1mgip0",
+  "_key": "!items!j9Xmq0O0kk1mgip0",
+  "name": "Rejuvenate",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ritual. Takes hours; everyone involved looks a couple of years younger.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "Malt6SuRtLFl4zmV",
+  "_key": "!items!Malt6SuRtLFl4zmV",
+  "name": "Vampire: Lord of Blood",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Cast Blood Magic in Full or Fitted armour, and perform the Enthrall ritual without a sacrifice by spending 50 Blood Points.</p>",
+    "classType": "blood",
+    "requirement": "8 Blood Spells"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

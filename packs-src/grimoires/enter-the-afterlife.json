@@ -1,0 +1,21 @@
+{
+  "_id": "bSlC8jhh7zg9HYDp",
+  "_key": "!items!bSlC8jhh7zg9HYDp",
+  "name": "Enter the Afterlife",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 12 hours, 20 Spell Uses. Lasts: 15 minutes. The target briefly enters one of Ninki's afterlifes. Any movement there is reflected on return to the real world, hypothetically escaping any confines. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 20,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

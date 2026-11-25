@@ -1,0 +1,21 @@
+{
+  "_id": "S756piqRCIxWbnjL",
+  "_key": "!items!S756piqRCIxWbnjL",
+  "name": "Sleep",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. The target misses their turn for d6 rounds; any damage wakes them. Keeps a sleeper asleep (Stealth checks auto-succeed).</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

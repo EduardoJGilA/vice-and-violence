@@ -1,0 +1,22 @@
+{
+  "_id": "sKuQ3TQ4pOZm0VjD",
+  "_key": "!items!sKuQ3TQ4pOZm0VjD",
+  "name": "Glass Bow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+3 damage plus Brawn. Price 150j. Ranged.</p>",
+    "kind": "bow",
+    "material": "glass",
+    "die": "d8",
+    "materialBonus": 3,
+    "range": "far"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

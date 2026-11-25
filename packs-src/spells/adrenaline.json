@@ -1,0 +1,21 @@
+{
+  "_id": "SuidUZsXquMdH4UZ",
+  "_key": "!items!SuidUZsXquMdH4UZ",
+  "name": "Adrenaline",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. Gives yourself or an ally 1 Exertion Use. On an allied NPC, allows an immediate Combat Action.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

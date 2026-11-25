@@ -1,0 +1,19 @@
+{
+  "_id": "2PGWU7UA1rogzJqM",
+  "_key": "!items!2PGWU7UA1rogzJqM",
+  "name": "Jovial Fellow: Heavy Hitter*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Attacks that would move you still do damage but you stay in place.</p>",
+    "classType": "warlock",
+    "requirement": "4 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

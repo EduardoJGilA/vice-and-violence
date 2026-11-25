@@ -1,0 +1,19 @@
+{
+  "_id": "P1vEGcI22ElswPgM",
+  "_key": "!items!P1vEGcI22ElswPgM",
+  "name": "Endowment: Sponsored",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>The Temple gives you 200j a week for expenses.</p>",
+    "classType": "paladin",
+    "requirement": "1 Vow"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

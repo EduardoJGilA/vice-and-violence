@@ -1,0 +1,21 @@
+{
+  "_id": "X7ba3O2F9Wk5bgEm",
+  "_key": "!items!X7ba3O2F9Wk5bgEm",
+  "name": "Wyvernian",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dragonkin sub-race (d4 = 3).</p>",
+    "smarts": 1,
+    "brawn": -1,
+    "moxie": 0,
+    "hotness": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

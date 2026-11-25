@@ -1,0 +1,21 @@
+{
+  "_id": "69MxsfPan4N3yneJ",
+  "_key": "!items!69MxsfPan4N3yneJ",
+  "name": "Lovely Little Cottage",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 3 hours, 20 Spell Uses. Lasts: 24 hours. A portal opens to a furnished countryside cottage with food, drink, a bath and a suspiciously adorable grandma of the caster's race, and closes after 30 seconds. All occupants MUST leave within 24 hours or suffer the consequences; the portal reopens at its original location. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 20,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

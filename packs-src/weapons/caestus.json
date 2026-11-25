@@ -1,0 +1,22 @@
+{
+  "_id": "E4sS5QUJsb6zcq5V",
+  "_key": "!items!E4sS5QUJsb6zcq5V",
+  "name": "Caestus",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6 damage plus Brawn. Price 75j. After attacking with your Combat Action you may attack again with each Tactical Action.</p>",
+    "kind": "caestus",
+    "material": "none",
+    "die": "d6",
+    "materialBonus": 0,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "MMDWNTRRtyOZyTCr",
+  "_key": "!items!MMDWNTRRtyOZyTCr",
+  "name": "Blood Whip",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A sharp lashing weapon with +3 bonus damage that lasts one combat; can also catch and pull small objects. No Spell Uses or casting roll: sacrifice LIFE with up to two dice no higher than d10.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

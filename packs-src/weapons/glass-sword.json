@@ -1,0 +1,22 @@
+{
+  "_id": "OlVXiUzm46F6RqBq",
+  "_key": "!items!OlVXiUzm46F6RqBq",
+  "name": "Glass Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+3 damage plus Brawn. Price 110j.</p>",
+    "kind": "sword",
+    "material": "glass",
+    "die": "d6",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

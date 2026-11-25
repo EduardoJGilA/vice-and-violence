@@ -1,0 +1,22 @@
+{
+  "_id": "itq6hSIQefjivxDs",
+  "_key": "!items!itq6hSIQefjivxDs",
+  "name": "Full Armour",
+  "type": "armour",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>300j. Arms, legs and torso well covered; noisy. Armour Save d8; +1 per upgrade (75j).</p>",
+    "category": "full",
+    "saveDie": "d8",
+    "bonus": 0,
+    "stealthPenalty": 0,
+    "equipped": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "OqiaYp41h6Smjobr",
+  "_key": "!items!OqiaYp41h6Smjobr",
+  "name": "Vampire: Eerie Charisma",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Immune to Charmed and to Horny.</p>",
+    "classType": "blood",
+    "requirement": "6 Blood Spells"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

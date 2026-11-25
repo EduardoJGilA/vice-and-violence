@@ -1,0 +1,20 @@
+{
+  "_id": "OoLjbYdZzElvnyxw",
+  "_key": "!items!OoLjbYdZzElvnyxw",
+  "name": "Ran'di",
+  "type": "birthsign",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6 result 1. Choose one Boon: Roll for a Light Magic spell, or Sex is always considered Great or better.</p>",
+    "boonA": "Roll for a Light Magic spell",
+    "boonB": "Sex is always considered Great or better",
+    "chosen": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

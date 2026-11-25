@@ -1,0 +1,21 @@
+{
+  "_id": "emvyYB1PVqGbguD7",
+  "_key": "!items!emvyYB1PVqGbguD7",
+  "name": "Dragonkin",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 2. Roll a d4 for a sub-race (Dracolithian, Quetzian, Wyvernian, Koboldian) and use that item's modifiers instead.</p>",
+    "smarts": 0,
+    "brawn": 0,
+    "moxie": 0,
+    "hotness": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

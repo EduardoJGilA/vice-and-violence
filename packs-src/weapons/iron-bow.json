@@ -1,0 +1,22 @@
+{
+  "_id": "iwubVF4XmCk2gpeO",
+  "_key": "!items!iwubVF4XmCk2gpeO",
+  "name": "Iron Bow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+2 damage plus Brawn. Price 110j. Ranged.</p>",
+    "kind": "bow",
+    "material": "iron",
+    "die": "d8",
+    "materialBonus": 2,
+    "range": "far"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

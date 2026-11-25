@@ -1,0 +1,22 @@
+{
+  "_id": "W6bFh59u1c2a3Tg0",
+  "_key": "!items!W6bFh59u1c2a3Tg0",
+  "name": "Steel Short Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+3 damage plus Brawn. Price 100j.</p>",
+    "kind": "short-sword",
+    "material": "steel",
+    "die": "d4",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

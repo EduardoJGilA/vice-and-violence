@@ -1,0 +1,22 @@
+{
+  "_id": "SGnpg0XSE87gJ1dg",
+  "_key": "!items!SGnpg0XSE87gJ1dg",
+  "name": "Stone Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+1 damage plus Brawn. Price 45j.</p>",
+    "kind": "staff",
+    "material": "stone",
+    "die": "d4",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

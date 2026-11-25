@@ -1,0 +1,21 @@
+{
+  "_id": "V7OW4wyE14NTG5yy",
+  "_key": "!items!V7OW4wyE14NTG5yy",
+  "name": "Satyr",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 8.</p>",
+    "smarts": 0,
+    "brawn": 0,
+    "moxie": -1,
+    "hotness": 2
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

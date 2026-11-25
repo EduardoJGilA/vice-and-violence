@@ -1,0 +1,21 @@
+{
+  "_id": "UtUQ78FxEoWeMKRA",
+  "_key": "!items!UtUQ78FxEoWeMKRA",
+  "name": "Dwarf",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 6.</p>",
+    "smarts": 0,
+    "brawn": 0,
+    "moxie": 2,
+    "hotness": -1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

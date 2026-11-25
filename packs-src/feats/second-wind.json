@@ -1,0 +1,19 @@
+{
+  "_id": "7XRWmSHVzvOKRkoy",
+  "_key": "!items!7XRWmSHVzvOKRkoy",
+  "name": "Second Wind",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Medium armour spend 1 Exertion to heal Life equal to Brawn x Moxie.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 4"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

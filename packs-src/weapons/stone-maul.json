@@ -1,0 +1,22 @@
+{
+  "_id": "nsKbrmDti52JsZsk",
+  "_key": "!items!nsKbrmDti52JsZsk",
+  "name": "Stone Maul",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+1 damage plus Brawn. Price 90j.</p>",
+    "kind": "maul",
+    "material": "stone",
+    "die": "d8",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

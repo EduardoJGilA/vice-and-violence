@@ -1,0 +1,19 @@
+{
+  "_id": "qeVRp2vSFKJQz422",
+  "_key": "!items!qeVRp2vSFKJQz422",
+  "name": "Vampire: Immortal",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Cannot die from Starvation or Dehydration (minimums: 1 Life, -6 Moxie). On the Dead table rolling 16+, you stand back up with 50% Life and a full Blood Gauge instead of becoming a zombie.</p>",
+    "classType": "blood",
+    "requirement": "2 Blood Spells"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

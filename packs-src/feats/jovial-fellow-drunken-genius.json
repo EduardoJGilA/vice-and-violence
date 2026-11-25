@@ -1,0 +1,19 @@
+{
+  "_id": "SwUvldazlKDvQDbe",
+  "_key": "!items!SwUvldazlKDvQDbe",
+  "name": "Jovial Fellow: Drunken Genius*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Being Drunk no longer raises Dice Challenges by +3; instead it lowers them by 2.</p>",
+    "classType": "warlock",
+    "requirement": "2 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

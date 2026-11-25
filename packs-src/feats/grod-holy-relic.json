@@ -1,0 +1,19 @@
+{
+  "_id": "HiAbon7rBdON2qF9",
+  "_key": "!items!HiAbon7rBdON2qF9",
+  "name": "Grod: Holy Relic",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Each additional relic adds +1 to melee attack damage.</p>",
+    "classType": "cleric",
+    "requirement": "250j each"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

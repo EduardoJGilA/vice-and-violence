@@ -1,0 +1,19 @@
+{
+  "_id": "4CitbI7xgnsmi3MM",
+  "_key": "!items!4CitbI7xgnsmi3MM",
+  "name": "Whirling Dervish*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy armour with a polearm or staff: when you spend Exertion to dodge a melee attack you immediately make a basic melee attack against the attacker.</p>",
+    "classType": "dancer",
+    "requirement": "5 sessions"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

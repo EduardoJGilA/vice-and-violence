@@ -1,0 +1,19 @@
+{
+  "_id": "kmLMS9HwrX7tn9Ej",
+  "_key": "!items!kmLMS9HwrX7tn9Ej",
+  "name": "Roar",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Spend 1 Exertion to intimidate injured humanoid enemies into becoming non-hostile (DC 14 to resist, or GM's discretion).</p>",
+    "classType": "fighter",
+    "requirement": "Tier 4"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "PeSfeH91vN4aRJK5",
+  "_key": "!items!PeSfeH91vN4aRJK5",
+  "name": "Telekinesis",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Move a Nearby object with your mind: trigger traps, throw weapons, steal small items. Lasts 15 minutes.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

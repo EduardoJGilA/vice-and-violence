@@ -1,0 +1,21 @@
+{
+  "_id": "gpAqKq6oWrrwEI7f",
+  "_key": "!items!gpAqKq6oWrrwEI7f",
+  "name": "Adjust Ambient Temperature",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1 hour, 10 Spell Uses. Lasts: Until Recast. The radiating temperature of a small object becomes scalding hot or freezing cold. Most commonly used on rocks to boil water in Dwarven water rooms. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 10,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

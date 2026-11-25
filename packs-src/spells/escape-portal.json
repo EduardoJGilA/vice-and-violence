@@ -1,0 +1,21 @@
+{
+  "_id": "Une0PLaqsAnY6Bgx",
+  "_key": "!items!Une0PLaqsAnY6Bgx",
+  "name": "Escape Portal",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A portal to safety, outside the dungeon or away from the area. Nearby creatures can follow. Lasts five minutes.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

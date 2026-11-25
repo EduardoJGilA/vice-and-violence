@@ -1,0 +1,22 @@
+{
+  "_id": "JrjNT9oYe8imq8yW",
+  "_key": "!items!JrjNT9oYe8imq8yW",
+  "name": "Glass Short Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+3 damage plus Brawn. Price 100j.</p>",
+    "kind": "short-sword",
+    "material": "glass",
+    "die": "d4",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "2FImjVWozCdUuECg",
+  "_key": "!items!2FImjVWozCdUuECg",
+  "name": "Dagger Heels*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy armour add d4 to a melee attack by spending a Tactical Action, once per turn.</p>",
+    "classType": "dancer",
+    "requirement": "4 sessions"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "4ERcVuYPvGpp1fbL",
+  "_key": "!items!4ERcVuYPvGpp1fbL",
+  "name": "Fleetfoot*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy or Light armour, moving does not cost a Tactical Action.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 3"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

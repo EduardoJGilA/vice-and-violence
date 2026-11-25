@@ -1,0 +1,19 @@
+{
+  "_id": "ujfTh7K4SGcasrJO",
+  "_key": "!items!ujfTh7K4SGcasrJO",
+  "name": "Vow of Charity",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Give any jade beyond 200 to those in need. +4 Disposition with humanoids; you and your party attend Academic and Magical lectures free.</p>",
+    "classType": "paladin",
+    "requirement": "Vow"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

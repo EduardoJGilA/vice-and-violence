@@ -1,0 +1,19 @@
+{
+  "_id": "v1VGWe8beJ6Mf9Q0",
+  "_key": "!items!v1VGWe8beJ6Mf9Q0",
+  "name": "Loud",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Taunting always forces four enemies to attack the Fighter on their turn (all of them if fewer).</p>",
+    "classType": "fighter",
+    "requirement": "Tier 2"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "jMZYapEB63XNJTUe",
+  "_key": "!items!jMZYapEB63XNJTUe",
+  "name": "Pit",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1 hour, 6 Spell Uses. Lasts: Indefinitely. Creates a hole in the ground the size of an average burial: 6 feet deep, 3 wide, 6 long. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 6,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

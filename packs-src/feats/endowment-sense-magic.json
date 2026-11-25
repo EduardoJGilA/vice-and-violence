@@ -1,0 +1,19 @@
+{
+  "_id": "pp5NnIQpquj7SfJB",
+  "_key": "!items!pp5NnIQpquj7SfJB",
+  "name": "Endowment: Sense Magic",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A crystal glows when Death, Blood or Primordial magic is used nearby; the GM must answer truthfully.</p>",
+    "classType": "paladin",
+    "requirement": "3 Vows"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "p6C3aSDgQ8OMz4DD",
+  "_key": "!items!p6C3aSDgQ8OMz4DD",
+  "name": "Raise Dead",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. Revive a recently dead creature to serve you, keeping its stats and abilities. Lasts until its death.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

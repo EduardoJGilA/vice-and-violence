@@ -1,0 +1,21 @@
+{
+  "_id": "NkCiGE5Wp0TzTWIp",
+  "_key": "!items!NkCiGE5Wp0TzTWIp",
+  "name": "Summon Imp",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1 hour, 8 Spell Uses. Lasts: 6 hours. Summons a bright red, horned lesser fae the size of a human newborn with a prehensile tail. It begrudgingly obeys but can't fight. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 8,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

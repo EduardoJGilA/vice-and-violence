@@ -1,0 +1,20 @@
+{
+  "_id": "9dsgC6uLpj1H8zSp",
+  "_key": "!items!9dsgC6uLpj1H8zSp",
+  "name": "Thief",
+  "type": "class",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Thieves Guild. Skills in any order: Silent, Backstab, Acrobat, Skillful Fingers (+8), Thieves' Slang, Alert (+10), Hide, Trusted Fence and more.</p>",
+    "classType": "thief",
+    "learningLevel": 0,
+    "skills": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

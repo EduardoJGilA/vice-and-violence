@@ -1,0 +1,19 @@
+{
+  "_id": "gAWzfmrTInwiu5hM",
+  "_key": "!items!gAWzfmrTInwiu5hM",
+  "name": "Endowment: Sacred Spellsaber",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Cast all Light Magic without rolling, and gain the Real Revive Advanced Spell.</p>",
+    "classType": "paladin",
+    "requirement": "9 Vows"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

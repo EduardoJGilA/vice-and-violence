@@ -1,0 +1,31 @@
+{
+  "_id": "66pkLyN60y0Cfncw",
+  "_key": "!actors!66pkLyN60y0Cfncw",
+  "name": "Treasure Mimic",
+  "type": "npc",
+  "img": "systems/vice-and-violence/assets/treasure-mimic.png",
+  "system": {
+    "initiative": "reactive",
+    "attackDie": "d4",
+    "disposition": 0,
+    "backgroundNotes": "<p>The most common sort of mimic: shapeshifts into chests and cupboards, and lays eggs in whoever trespasses. Practically impervious to damage (the GM may reward creative attempts to kill one).</p><p>Rolled on the Loot Table: the player who rolled it is captured. Roll d8 for Time Lost and d8 for Repercussions (cumulative). Roll Wanderers if it takes more than an hour.</p><p>As a pet: doesn't engage in combat; holds valuables, spare gear and up to 50 rations and water; takes 1 carrying capacity on a mount and can't ride alone (Slugraptors and Swamp Striders can't carry it); alerts a sleeping party of intruders; fits through a Magic Mirror; one person can hide inside it. Sex with a mimic once every 48 hours (roll Time Lost instead of Time Taken), leaving 1 egg inside for 24 hours. Eggs sell for 30j each.</p><p>Personal Pet Mimic (Wizard service, 800j): carries 30 food and 30 rations, can act as a mount for 1 person, and gives the benefits of Incredible Sex every 24 hours.</p><p>Minimimic (starting pet): a pygmy mimic that can morph into objects as large as a bowling ball.</p>"
+  },
+  "prototypeToken": {
+    "name": "Treasure Mimic",
+    "texture": {
+      "src": "systems/vice-and-violence/assets/treasure-mimic.png"
+    },
+    "width": 1,
+    "height": 1,
+    "disposition": 0,
+    "actorLink": false
+  },
+  "items": [],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

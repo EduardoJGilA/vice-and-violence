@@ -1,0 +1,21 @@
+{
+  "_id": "6B7c0B6yLUI2ZPa2",
+  "_key": "!items!6B7c0B6yLUI2ZPa2",
+  "name": "Elf",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 3.</p>",
+    "smarts": 0,
+    "brawn": 0,
+    "moxie": 0,
+    "hotness": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "KUMG8yHVySQ4TW2m",
+  "_key": "!items!KUMG8yHVySQ4TW2m",
+  "name": "Wizard",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Eleven Spells Known; +5 Spell Uses and one Advanced Spell; you only need 6 or higher to cast (Fuck Ups below 6 you removed stay removed).</p>",
+    "classType": "wizard",
+    "requirement": "Rank 5"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

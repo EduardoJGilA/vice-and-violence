@@ -1,0 +1,22 @@
+{
+  "_id": "KtXAqjqtjrkczAor",
+  "_key": "!items!KtXAqjqtjrkczAor",
+  "name": "Iron Axe",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+2 damage plus Brawn. Price 90j.</p>",
+    "kind": "axe",
+    "material": "iron",
+    "die": "d8",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

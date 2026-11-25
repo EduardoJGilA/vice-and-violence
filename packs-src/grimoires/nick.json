@@ -1,0 +1,21 @@
+{
+  "_id": "YSiHLqUNJsoNfq5U",
+  "_key": "!items!YSiHLqUNJsoNfq5U",
+  "name": "Nick",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 15 minutes, 4 Spell Uses. Lasts: Indefinitely. An object the caster can see teleports into their hand, along with anything it is attached to or resting on. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 4,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

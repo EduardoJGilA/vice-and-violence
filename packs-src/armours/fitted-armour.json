@@ -1,0 +1,22 @@
+{
+  "_id": "GRdywOtoz9olv19L",
+  "_key": "!items!GRdywOtoz9olv19L",
+  "name": "Fitted Armour",
+  "type": "armour",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>1000-1500j plus 1 Downtime session to be measured. Cheaper for Dwarfs, Dwellers and Goblins. Reduced to Medium while the wearer carries eggs. Armour Save 2d6; +1 per upgrade (75j).</p>",
+    "category": "fitted",
+    "saveDie": "2d6",
+    "bonus": 0,
+    "stealthPenalty": 0,
+    "equipped": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

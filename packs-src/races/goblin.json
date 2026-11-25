@@ -1,0 +1,21 @@
+{
+  "_id": "VSS4BOvITIzQKMmV",
+  "_key": "!items!VSS4BOvITIzQKMmV",
+  "name": "Goblin",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 1.</p>",
+    "smarts": 0,
+    "brawn": 0,
+    "moxie": 1,
+    "hotness": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

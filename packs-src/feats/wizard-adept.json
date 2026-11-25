@@ -1,0 +1,19 @@
+{
+  "_id": "16FxOoZEQxAOZibl",
+  "_key": "!items!16FxOoZEQxAOZibl",
+  "name": "Wizard Adept",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Nine Spells Known; +5 Spell Uses and one Advanced Spell.</p>",
+    "classType": "wizard",
+    "requirement": "Rank 4"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "wNw1x7DOZnJbTGhz",
+  "_key": "!items!wNw1x7DOZnJbTGhz",
+  "name": "Alert",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>+10 to Smarts checks listening for unusual noises, searching a room for specific objects or watching for ambushes.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

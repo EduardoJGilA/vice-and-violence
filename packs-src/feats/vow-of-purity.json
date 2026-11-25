@@ -1,0 +1,19 @@
+{
+  "_id": "gR5ac76vn4yhQpnk",
+  "_key": "!items!gR5ac76vn4yhQpnk",
+  "name": "Vow of Purity",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Avoid Death, Blood and Primordial magic; use only Light magic. You never roll to cast Heal or Group Heal.</p>",
+    "classType": "paladin",
+    "requirement": "Vow"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "57us8Q1SZw3Zr03g",
+  "_key": "!items!57us8Q1SZw3Zr03g",
+  "name": "Bronze Short Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+2 damage plus Brawn. Price 60j.</p>",
+    "kind": "short-sword",
+    "material": "bronze",
+    "die": "d4",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

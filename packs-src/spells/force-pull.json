@@ -1,0 +1,21 @@
+{
+  "_id": "2Pm5L8wV6Dw1d4kS",
+  "_key": "!items!2Pm5L8wV6Dw1d4kS",
+  "name": "Force Pull",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. 2d4 damage to one target, pulling it towards you and making you its target. Can pickpocket or undress an unarmoured target.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

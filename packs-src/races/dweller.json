@@ -1,0 +1,21 @@
+{
+  "_id": "1TEb60WjVI3GtvKR",
+  "_key": "!items!1TEb60WjVI3GtvKR",
+  "name": "Dweller",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 9.</p>",
+    "smarts": 2,
+    "brawn": -1,
+    "moxie": 0,
+    "hotness": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

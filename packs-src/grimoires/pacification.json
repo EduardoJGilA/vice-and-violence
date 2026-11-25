@@ -1,0 +1,21 @@
+{
+  "_id": "8JX6iQZUGnZudcqn",
+  "_key": "!items!8JX6iQZUGnZudcqn",
+  "name": "Pacification",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 6 hours, 12 Spell Uses. Lasts: Until Recast. The target becomes permanently non-hostile to all living creatures and won't defend itself if attacked. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 12,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

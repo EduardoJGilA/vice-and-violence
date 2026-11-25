@@ -1,0 +1,19 @@
+{
+  "_id": "sdKHf7NTaFzODHPK",
+  "_key": "!items!sdKHf7NTaFzODHPK",
+  "name": "Faerie King: Duty Bound*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Learn Taunt and Protect, rolling with Hotness instead of Moxie.</p>",
+    "classType": "warlock",
+    "requirement": "4 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

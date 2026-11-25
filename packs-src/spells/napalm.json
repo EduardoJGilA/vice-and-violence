@@ -1,0 +1,21 @@
+{
+  "_id": "zySGzP34xqEAYTu8",
+  "_key": "!items!zySGzP34xqEAYTu8",
+  "name": "Napalm",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>The target takes 10d6 damage and Adjacent enemies 5d6; they Burn until they spend a Tactical Action extinguishing themselves. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 9,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

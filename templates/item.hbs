@@ -1,0 +1,25 @@
+<div class="vv-sheet vv-item">
+  <header class="vv-item-head">
+    <input class="vv-item-name" type="text" name="name" value="{{item.name}}" aria-label="Name" placeholder="Name">
+    <span class="vv-badge">{{typeLabel}}</span>
+  </header>
+
+  <div class="vv-card">
+    <h3>Properties</h3>
+    <div class="vv-ifields">
+      {{#each fields}}
+      <div class="vv-ifield"><label for="vv-{{key}}">{{key}}</label>
+        {{#if choices}}<select id="vv-{{key}}" name="system.{{key}}">{{#each choices}}<option value="{{value}}" {{#if selected}}selected{{/if}}>{{label}}</option>{{/each}}</select>
+        {{else if bool}}<input id="vv-{{key}}" type="checkbox" name="system.{{key}}" {{#if value}}checked{{/if}}>
+        {{else if num}}<input id="vv-{{key}}" type="number" name="system.{{key}}" value="{{value}}">
+        {{else}}<input id="vv-{{key}}" type="text" name="system.{{key}}" value="{{value}}">{{/if}}
+      </div>
+      {{/each}}
+    </div>
+  </div>
+
+  <div class="vv-card vv-desc">
+    <h3>Description</h3>
+    {{formInput descriptionField value=description enriched=descriptionHTML toggled=true name="system.description"}}
+  </div>
+</div>

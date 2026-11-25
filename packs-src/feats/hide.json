@@ -1,0 +1,19 @@
+{
+  "_id": "NBRWT6Y5BE81UMbD",
+  "_key": "!items!NBRWT6Y5BE81UMbD",
+  "name": "Hide",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy or Light armour, hide and move silently in darkness without a Stealth check; interacting or ambushing still needs one.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

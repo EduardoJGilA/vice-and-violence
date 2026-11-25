@@ -1,0 +1,22 @@
+{
+  "_id": "IsZULDKMetk5Pq7Y",
+  "_key": "!items!IsZULDKMetk5Pq7Y",
+  "name": "Bedroom Gratificator",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>2d4 damage plus Brawn. Price 80j. On a roll of 8 the target is knocked prone. Adds d6 to all Sex rolls.</p>",
+    "kind": "bedroom-gratificator",
+    "material": "none",
+    "die": "2d4",
+    "materialBonus": 0,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

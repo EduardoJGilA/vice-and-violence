@@ -1,0 +1,19 @@
+{
+  "_id": "J1lVvPefuolZ1NrL",
+  "_key": "!items!J1lVvPefuolZ1NrL",
+  "name": "Faerie King: Noble Steed*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>While mounted on a Mountable Creature or fellow adventurer, melee attacks deal +d6 damage.</p>",
+    "classType": "warlock",
+    "requirement": "2 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

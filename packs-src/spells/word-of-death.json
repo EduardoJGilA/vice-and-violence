@@ -1,0 +1,21 @@
+{
+  "_id": "BthZesyy438r2znd",
+  "_key": "!items!BthZesyy438r2znd",
+  "name": "Word of Death",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>If the target has less than 60 Life, it dies immediately. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 12,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

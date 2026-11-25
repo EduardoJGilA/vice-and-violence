@@ -1,0 +1,21 @@
+{
+  "_id": "QoJql2tciUiUTl8k",
+  "_key": "!items!QoJql2tciUiUTl8k",
+  "name": "Dome",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A magical dome around the wizard and allies: cures status effects inside, blocks outside projectiles and magic; enemies passing in suffer 6d6. Until combat ends. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 7,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

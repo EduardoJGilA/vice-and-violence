@@ -1,0 +1,19 @@
+{
+  "_id": "PDWZVJLCG2svnP8S",
+  "_key": "!items!PDWZVJLCG2svnP8S",
+  "name": "Sand Witch: Piggy Back*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Act as a Mount for one allied adventurer regardless of size or Brawn.</p>",
+    "classType": "warlock",
+    "requirement": "2 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

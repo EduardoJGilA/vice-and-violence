@@ -1,0 +1,21 @@
+{
+  "_id": "UpghW4Ubs5agcCBI",
+  "_key": "!items!UpghW4Ubs5agcCBI",
+  "name": "Orc",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 5.</p>",
+    "smarts": -1,
+    "brawn": 2,
+    "moxie": 0,
+    "hotness": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

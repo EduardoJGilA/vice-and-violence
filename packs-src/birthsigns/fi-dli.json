@@ -1,0 +1,20 @@
+{
+  "_id": "0ZgfrAw0DpKYmyrB",
+  "_key": "!items!0ZgfrAw0DpKYmyrB",
+  "name": "Fi'dli",
+  "type": "birthsign",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6 result 5. Choose one Boon: Roll for a Death Magic spell, or Roll for a Light Magic spell.</p>",
+    "boonA": "Roll for a Death Magic spell",
+    "boonB": "Roll for a Light Magic spell",
+    "chosen": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

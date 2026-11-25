@@ -1,0 +1,19 @@
+{
+  "_id": "CBzd6VvXOLSw4cI8",
+  "_key": "!items!CBzd6VvXOLSw4cI8",
+  "name": "Skillful Fingers",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy or Light armour, +8 to lockpicking and to disarming mechanical traps.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

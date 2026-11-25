@@ -1,0 +1,19 @@
+{
+  "_id": "UTMJ0LKSZxI1fhln",
+  "_key": "!items!UTMJ0LKSZxI1fhln",
+  "name": "Dancer in Training*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dance alongside a Bard during their Downtime performance to add 2d100j to their earnings.</p>",
+    "classType": "dancer",
+    "requirement": "1 session"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

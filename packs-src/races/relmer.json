@@ -1,0 +1,21 @@
+{
+  "_id": "WhdycS6oa72hujYB",
+  "_key": "!items!WhdycS6oa72hujYB",
+  "name": "Relmer",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 10.</p>",
+    "smarts": 1,
+    "brawn": 0,
+    "moxie": -1,
+    "hotness": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "DdorwttvdEEsDgsP",
+  "_key": "!items!DdorwttvdEEsDgsP",
+  "name": "Dance Partner",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>You and an allied Bard can use each other as Mounts regardless of Brawn.</p>",
+    "classType": "dancer",
+    "requirement": "2 sessions"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

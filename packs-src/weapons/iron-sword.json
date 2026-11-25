@@ -1,0 +1,22 @@
+{
+  "_id": "UbwgI9LdGqlrRSFw",
+  "_key": "!items!UbwgI9LdGqlrRSFw",
+  "name": "Iron Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+2 damage plus Brawn. Price 70j.</p>",
+    "kind": "sword",
+    "material": "iron",
+    "die": "d6",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

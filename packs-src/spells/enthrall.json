@@ -1,0 +1,21 @@
+{
+  "_id": "woUSehoIBmd1aDQl",
+  "_key": "!items!woUSehoIBmd1aDQl",
+  "name": "Enthrall",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ritual. Sacrifice a living person and well restrain a target: it becomes a free thrall retainer. Takes 24 hours.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

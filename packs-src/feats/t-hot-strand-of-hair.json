@@ -1,0 +1,19 @@
+{
+  "_id": "TH8tFh4MkTppFtuC",
+  "_key": "!items!TH8tFh4MkTppFtuC",
+  "name": "T'hot: Strand of Hair",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Medium armour, cast Heal or Group Heal as a Tactical Action.</p>",
+    "classType": "cleric",
+    "requirement": "500j"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

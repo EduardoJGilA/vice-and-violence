@@ -1,0 +1,22 @@
+{
+  "_id": "SQsRorcV0kGHwpF8",
+  "_key": "!items!SQsRorcV0kGHwpF8",
+  "name": "Stone Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+1 damage plus Brawn. Price 50j.</p>",
+    "kind": "sword",
+    "material": "stone",
+    "die": "d6",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "BZSzysC7Z3AmRI6C",
+  "_key": "!items!BZSzysC7Z3AmRI6C",
+  "name": "Arcane Arrow",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>3-10 Spell Uses. A bolt of pure magic dealing d6 damage per Spell Use, up to 10d6; can attack multiple targets. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 3,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

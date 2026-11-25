@@ -1,0 +1,21 @@
+{
+  "_id": "fdnRe9Myo9GFopHJ",
+  "_key": "!items!fdnRe9Myo9GFopHJ",
+  "name": "Neck Suck",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ritual, vampires only. Drains a living target's Life into your Blood Gauge (double Blood if it kills them). Not usable in combat.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

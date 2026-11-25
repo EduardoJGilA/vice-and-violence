@@ -1,0 +1,21 @@
+{
+  "_id": "po0yJad8oIN2OQR2",
+  "_key": "!items!po0yJad8oIN2OQR2",
+  "name": "Darkvision",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>See clearly in low light and Nearby in pitch black. Lasts 1 hour.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

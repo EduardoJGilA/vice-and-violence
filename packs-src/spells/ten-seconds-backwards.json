@@ -1,0 +1,21 @@
+{
+  "_id": "InZbYwfn6IilVDMA",
+  "_key": "!items!InZbYwfn6IilVDMA",
+  "name": "Ten Seconds Backwards",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Reverse time 10 seconds so the last roll can be rolled again. Costs a Spell Use but can be cast as a Tactical Action.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

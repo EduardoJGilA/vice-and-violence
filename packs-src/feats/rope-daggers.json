@@ -1,0 +1,19 @@
+{
+  "_id": "Yzy08FdcODzdfMkK",
+  "_key": "!items!Yzy08FdcODzdfMkK",
+  "name": "Rope Daggers",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Use daggers and short swords as ranged attacks on special elastic ropes; can also act as a grappling hook.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

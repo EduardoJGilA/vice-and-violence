@@ -1,0 +1,22 @@
+{
+  "_id": "Zv5ciTwRfrk0xooA",
+  "_key": "!items!Zv5ciTwRfrk0xooA",
+  "name": "Skimpy Armour",
+  "type": "armour",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>30j. Barely covered: great for stealth, bad for being stabbed. Armour Save d2; +1 per upgrade (75j).</p>",
+    "category": "skimpy",
+    "saveDie": "d2",
+    "bonus": 0,
+    "stealthPenalty": 0,
+    "equipped": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

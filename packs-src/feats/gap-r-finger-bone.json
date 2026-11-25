@@ -1,0 +1,19 @@
+{
+  "_id": "Jwe3ISLUZzaAvLUh",
+  "_key": "!items!Jwe3ISLUZzaAvLUh",
+  "name": "Gap'r: Finger Bone",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Medium armour, cast Light Magic and Utility spells with Hotness instead of Smarts.</p>",
+    "classType": "cleric",
+    "requirement": "400j"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

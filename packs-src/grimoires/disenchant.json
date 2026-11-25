@@ -1,0 +1,21 @@
+{
+  "_id": "cCLTT2c04QxNEd9t",
+  "_key": "!items!cCLTT2c04QxNEd9t",
+  "name": "Disenchant",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 12 hours, 20 Spell Uses. Lasts: Indefinitely. Removes any magical effects from an object or target. Kind of a dick move among wizards, but useful for spellbound maidens and cursed weapons. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 20,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

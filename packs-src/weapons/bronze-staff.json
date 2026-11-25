@@ -1,0 +1,22 @@
+{
+  "_id": "SOjOw0WDu2KJQjFB",
+  "_key": "!items!SOjOw0WDu2KJQjFB",
+  "name": "Bronze Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+2 damage plus Brawn. Price 65j.</p>",
+    "kind": "staff",
+    "material": "bronze",
+    "die": "d4",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

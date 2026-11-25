@@ -1,0 +1,21 @@
+{
+  "_id": "2gLIL01UyC6ApVaC",
+  "_key": "!items!2gLIL01UyC6ApVaC",
+  "name": "Blood Burst",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Needs a corpse. The rest of the source text is unreadable in the OCR (users gain a Vice, 'because it's gross'); verify in the book. No Spell Uses or casting roll: sacrifice LIFE with up to two dice no higher than d10.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

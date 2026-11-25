@@ -1,0 +1,21 @@
+{
+  "_id": "3I75u4ls6s3a1Pqv",
+  "_key": "!items!3I75u4ls6s3a1Pqv",
+  "name": "Knock",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1-6 hours, 12 Spell Uses. Lasts: Until Recast. Locks or unlocks a door. More complex locks take more time, not more Spell Uses. Lockpicks can still work on it but take the same time. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 12,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

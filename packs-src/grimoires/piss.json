@@ -1,0 +1,21 @@
+{
+  "_id": "Mdpgxzk7pYqkjYnX",
+  "_key": "!items!Mdpgxzk7pYqkjYnX",
+  "name": "Piss",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 15 minutes, 5 Spell Uses. Lasts: 15 minutes. Forms a torrential rain cloud of fragrant dark urine. Good against fires, but causes Filthy. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 5,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

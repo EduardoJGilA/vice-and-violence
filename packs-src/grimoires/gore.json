@@ -1,0 +1,21 @@
+{
+  "_id": "EjeoZ7TLyyrt2pD4",
+  "_key": "!items!EjeoZ7TLyyrt2pD4",
+  "name": "Gore",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 4 hours, 15 Spell Uses. Lasts: Indefinitely. The target explodes in blood, guts and viscera; casting gradually raises the pain until it is unbearable. Great for torture, not good for drapes and carpets. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 15,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

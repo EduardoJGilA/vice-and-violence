@@ -1,0 +1,19 @@
+{
+  "_id": "fQKkna4IiZJls6Mb",
+  "_key": "!items!fQKkna4IiZJls6Mb",
+  "name": "Evasive Step*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy armour with a polearm or staff: move away from one Adjacent enemy without an Opportunity Attack by spending 2 Tactical Actions; +1 Exertion; against 2+ enemies subtract 1 Opportunity Attack.</p>",
+    "classType": "dancer",
+    "requirement": "3 sessions"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

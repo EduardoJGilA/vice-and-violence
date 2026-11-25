@@ -1,0 +1,21 @@
+{
+  "_id": "PfWwRTW7k3jmjLQk",
+  "_key": "!items!PfWwRTW7k3jmjLQk",
+  "name": "Magic Message",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Imbues a message or weird noise onto an object or small animal, which carries it to a designated target.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

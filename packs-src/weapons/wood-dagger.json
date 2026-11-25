@@ -1,0 +1,22 @@
+{
+  "_id": "dk3T4NdRei7Snvc5",
+  "_key": "!items!dk3T4NdRei7Snvc5",
+  "name": "Wood Dagger",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+1 damage plus Brawn. Price 35j.</p>",
+    "kind": "dagger",
+    "material": "wood",
+    "die": "d4",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

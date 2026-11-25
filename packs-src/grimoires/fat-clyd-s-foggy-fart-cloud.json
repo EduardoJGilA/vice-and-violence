@@ -1,0 +1,21 @@
+{
+  "_id": "igyQVH8VQ9GmrGru",
+  "_key": "!items!igyQVH8VQ9GmrGru",
+  "name": "Fat Clyd's Foggy Fart Cloud",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 30 minutes, 5 Spell Uses. Lasts: 30 minutes. An incredibly juvenile spell that fills the area with thick, foul-smelling fog that makes it impossible to see. Useful for thieves and pranksters. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 5,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "zLJvO6bmO2FBFhnY",
+  "_key": "!items!zLJvO6bmO2FBFhnY",
+  "name": "Resurrect",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. Revive a recently dead humanoid at full health as a zombie. The target might not appreciate this.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

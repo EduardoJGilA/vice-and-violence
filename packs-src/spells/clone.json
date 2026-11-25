@@ -1,0 +1,21 @@
+{
+  "_id": "yexSyePm7OcVRt6O",
+  "_key": "!items!yexSyePm7OcVRt6O",
+  "name": "Clone",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>An exact physical copy of the target (no spells or abilities, none of the memories). Considered extremely unethical. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 20,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

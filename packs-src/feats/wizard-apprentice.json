@@ -1,0 +1,19 @@
+{
+  "_id": "JbnRjvS4Y8kwgXuU",
+  "_key": "!items!JbnRjvS4Y8kwgXuU",
+  "name": "Wizard Apprentice",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Five Spells Known; one Advanced Spell and your own Wizard's Hat. No extra Spell Uses.</p>",
+    "classType": "wizard",
+    "requirement": "Rank 2"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

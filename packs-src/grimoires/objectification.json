@@ -1,0 +1,21 @@
+{
+  "_id": "mc2x23ROu0vQpjUf",
+  "_key": "!items!mc2x23ROu0vQpjUf",
+  "name": "Objectification",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 3 hours, 16 Spell Uses. Lasts: Until Recast. The target becomes an inanimate object of the caster's choice. It can still hear, see and feel but can't talk or move. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 16,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

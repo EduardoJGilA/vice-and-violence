@@ -1,0 +1,19 @@
+{
+  "_id": "A1qR7PzUo4zs9ybf",
+  "_key": "!items!A1qR7PzUo4zs9ybf",
+  "name": "Spellsword",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Two spell slots: a Level 1 Light or Death spell of your choice, and Brawn instead of Smarts to cast.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 2"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

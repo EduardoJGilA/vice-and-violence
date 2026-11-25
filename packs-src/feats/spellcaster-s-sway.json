@@ -1,0 +1,19 @@
+{
+  "_id": "SBida6uCIIFqRe62",
+  "_key": "!items!SBida6uCIIFqRe62",
+  "name": "Spellcaster's Sway*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy armour use Hotness to cast spells instead of Smarts.</p>",
+    "classType": "dancer",
+    "requirement": "5 sessions"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

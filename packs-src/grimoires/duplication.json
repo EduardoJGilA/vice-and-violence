@@ -1,0 +1,21 @@
+{
+  "_id": "7rOxAlI9CZQ05aCq",
+  "_key": "!items!7rOxAlI9CZQ05aCq",
+  "name": "Duplication",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1 hour, 10 Spell Uses. Lasts: Indefinitely. Creates a rubber duplicate of an object or target. Often used for acting props and sex toys. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 10,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

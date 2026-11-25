@@ -1,0 +1,19 @@
+{
+  "_id": "9NNaIsNrcdNeiZVp",
+  "_key": "!items!9NNaIsNrcdNeiZVp",
+  "name": "Silent*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy or Light armour you do not add your armour to Stealth checks.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

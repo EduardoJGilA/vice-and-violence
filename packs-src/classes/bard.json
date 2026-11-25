@@ -1,0 +1,20 @@
+{
+  "_id": "pBX4yGsDBdoo91Bk",
+  "_key": "!items!pBX4yGsDBdoo91Bk",
+  "name": "Bard",
+  "type": "class",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Bard Proficiency 1-20 gives a +1 to +7 modifier (every 3 points). Raised by performing at venues (x2 to x4) or Bard Practice. Songs cost a Tactical Action to sing each round: Charm (DC 10+mod), damage, healing, Sex/Moxie bonus, Stealth/blind, Dancer damage, raise a Downed ally.</p>",
+    "classType": "bard",
+    "learningLevel": 0,
+    "skills": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "LYLMjrHu4JZtQD8T",
+  "_key": "!items!LYLMjrHu4JZtQD8T",
+  "name": "Gap'r: Holy Relic",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Each additional relic adds +1 Spell Uses.</p>",
+    "classType": "cleric",
+    "requirement": "100j each"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

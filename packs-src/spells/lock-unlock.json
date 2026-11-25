@@ -1,0 +1,21 @@
+{
+  "_id": "Pr5HDvbDygrlSarm",
+  "_key": "!items!Pr5HDvbDygrlSarm",
+  "name": "Lock/Unlock",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Locks or unlocks a door, chest, etc.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

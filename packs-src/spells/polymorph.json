@@ -1,0 +1,21 @@
+{
+  "_id": "WHXBuUuAHTo2uogm",
+  "_key": "!items!WHXBuUuAHTo2uogm",
+  "name": "Polymorph",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Turns the target into a creature of your choice, including its stat block. Reverting costs one Spell Use. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 8,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

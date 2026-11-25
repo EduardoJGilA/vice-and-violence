@@ -1,0 +1,21 @@
+{
+  "_id": "ykSk66BgZs8RzxJc",
+  "_key": "!items!ykSk66BgZs8RzxJc",
+  "name": "Telepathy",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1 hour, 10 Spell Uses. Lasts: 15 minutes. Projects the caster's thoughts into a target's mind as if they were its own. Useful for making idiots rethink dumb ideas. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 10,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

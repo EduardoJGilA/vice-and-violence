@@ -1,0 +1,22 @@
+{
+  "_id": "EZKmjnlJxDkMUR6E",
+  "_key": "!items!EZKmjnlJxDkMUR6E",
+  "name": "Steel Bow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+3 damage plus Brawn. Price 150j. Ranged.</p>",
+    "kind": "bow",
+    "material": "steel",
+    "die": "d8",
+    "materialBonus": 3,
+    "range": "far"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

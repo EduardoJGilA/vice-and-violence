@@ -1,0 +1,22 @@
+{
+  "_id": "rSGNQmO6jr3ZQ4ec",
+  "_key": "!items!rSGNQmO6jr3ZQ4ec",
+  "name": "Glass Greatsword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d10+3 damage plus Brawn. Price 155j.</p>",
+    "kind": "greatsword",
+    "material": "glass",
+    "die": "d10",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

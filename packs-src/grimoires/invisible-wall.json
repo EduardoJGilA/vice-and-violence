@@ -1,0 +1,21 @@
+{
+  "_id": "QLG4swd1uZljHX0I",
+  "_key": "!items!QLG4swd1uZljHX0I",
+  "name": "Invisible Wall",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 3 hours, 15 Spell Uses. Lasts: Until Recast. An invisible wall between two predetermined points; the caster must see both points at once. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 15,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

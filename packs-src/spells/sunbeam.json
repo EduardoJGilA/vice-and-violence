@@ -1,0 +1,21 @@
+{
+  "_id": "MoCdPvTYDdTgk2qq",
+  "_key": "!items!MoCdPvTYDdTgk2qq",
+  "name": "Sunbeam",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. 2d8 damage to an Adjacent enemy and 1d8 to a Far or Distant enemy. Both targets are Blinded for 1 turn.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

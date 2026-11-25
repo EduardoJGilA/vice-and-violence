@@ -1,0 +1,19 @@
+{
+  "_id": "siqiDooen4zHyL4U",
+  "_key": "!items!siqiDooen4zHyL4U",
+  "name": "Spin*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy armour with a polearm or staff: use Cleave as a Tactical Action, once per turn.</p>",
+    "classType": "dancer",
+    "requirement": "4 sessions"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

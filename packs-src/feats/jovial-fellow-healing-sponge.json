@@ -1,0 +1,19 @@
+{
+  "_id": "4n14EbD39TEmHHl1",
+  "_key": "!items!4n14EbD39TEmHHl1",
+  "name": "Jovial Fellow: Healing Sponge*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Add d6 Life to all healing you receive (potions, spells, sex).</p>",
+    "classType": "warlock",
+    "requirement": "6 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

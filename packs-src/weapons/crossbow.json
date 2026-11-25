@@ -1,0 +1,22 @@
+{
+  "_id": "RzFxHS9klZhDo2Xi",
+  "_key": "!items!RzFxHS9klZhDo2Xi",
+  "name": "Crossbow",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>2d8 damage plus Brawn. Price 90j. Ranged. Costs 1 Tactical Action to reload.</p>",
+    "kind": "crossbow",
+    "material": "none",
+    "die": "2d8",
+    "materialBonus": 0,
+    "range": "far"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

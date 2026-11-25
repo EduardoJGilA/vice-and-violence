@@ -1,0 +1,21 @@
+{
+  "_id": "raQ0MpoEjrAm2KID",
+  "_key": "!items!raQ0MpoEjrAm2KID",
+  "name": "Entrall",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. Turns 1 hostile target to your side. Every 24 hours the target can resist (DC12). It obeys your commands.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

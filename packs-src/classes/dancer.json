@@ -1,0 +1,20 @@
+{
+  "_id": "auaHyJlswBKQ5yAJ",
+  "_key": "!items!auaHyJlswBKQ5yAJ",
+  "name": "Dancer",
+  "type": "class",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Needs Skimpy armour. Learned in Downtime sessions. Use Hotness instead of Brawn/Smarts, reduced falling damage, +d4 melee damage, move away without Opportunity Attacks, Cleave, dodge and counter-attack. Needs a Staff, Magic Staff, Spear or Halberd for some skills.</p>",
+    "classType": "dancer",
+    "learningLevel": 0,
+    "skills": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "7MntGVGxoUiacDSp",
+  "_key": "!items!7MntGVGxoUiacDSp",
+  "name": "Vampire: Blood Puddle",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dissolve into a puddle of blood for up to 30 minutes, unharmable; you emerge with 1 Life and naked.</p>",
+    "classType": "blood",
+    "requirement": "4 Blood Spells"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

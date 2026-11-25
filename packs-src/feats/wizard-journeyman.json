@@ -1,0 +1,19 @@
+{
+  "_id": "6GYgvCKMLIhLJLlo",
+  "_key": "!items!6GYgvCKMLIhLJLlo",
+  "name": "Wizard Journeyman",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Seven Spells Known; +5 Spell Uses and one Advanced Spell; no more experiments to learn spells.</p>",
+    "classType": "wizard",
+    "requirement": "Rank 3"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "dOp0MsoIu81xelzl",
+  "_key": "!items!dOp0MsoIu81xelzl",
+  "name": "Storm Cloud",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A thunderous cloud strikes enemies with lightning every round: 2d6 the first round, +1d6 each round, until combat ends. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 5,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

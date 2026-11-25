@@ -1,0 +1,21 @@
+{
+  "_id": "kum0IAnPiGZsrTu2",
+  "_key": "!items!kum0IAnPiGZsrTu2",
+  "name": "Dairyfication",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1 hour, 15 Spell Uses. Lasts: Indefinitely. Turns the target into a Dairygirl (small horns, cow ears and tail). It can no longer wear Full or Fitted armour but gives a serving of milk (+1 Brawn for 24 hours) after eating four rations. Target must be a Human, Elf, Relmer or Alloyan. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 15,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

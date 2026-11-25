@@ -1,0 +1,19 @@
+{
+  "_id": "PQ2aGxACAilxri9e",
+  "_key": "!items!PQ2aGxACAilxri9e",
+  "name": "Vow of Honour",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Never return as a zombie. +1 Moxie every Level Up; once per combat, when you would drop to 0 Life you keep 1 Life and stay conscious.</p>",
+    "classType": "paladin",
+    "requirement": "Vow"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

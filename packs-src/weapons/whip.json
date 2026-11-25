@@ -1,0 +1,22 @@
+{
+  "_id": "yMe9D5ev067jPM8B",
+  "_key": "!items!yMe9D5ev067jPM8B",
+  "name": "Whip",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6 damage plus Brawn. Price 60j. Ranged. Deals 2d6 damage to Distant targets.</p>",
+    "kind": "whip",
+    "material": "none",
+    "die": "d6",
+    "materialBonus": 0,
+    "range": "distant"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

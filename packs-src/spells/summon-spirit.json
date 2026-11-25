@@ -1,0 +1,21 @@
+{
+  "_id": "wss22CcyCTlGF2aY",
+  "_key": "!items!wss22CcyCTlGF2aY",
+  "name": "Summon Spirit",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Summon a ghost that adds an extra d8 to any dice rolls the target chooses, for 24 hours. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 10,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

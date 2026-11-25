@@ -1,0 +1,19 @@
+{
+  "_id": "IduuDYTUQHN2LXjd",
+  "_key": "!items!IduuDYTUQHN2LXjd",
+  "name": "Endowment: Armour",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A suit of Fitted Armour (2d6 armour save).</p>",
+    "classType": "paladin",
+    "requirement": "7 Vows"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

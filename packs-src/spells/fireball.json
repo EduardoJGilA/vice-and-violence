@@ -1,0 +1,21 @@
+{
+  "_id": "07DjQXRb2iYNyafp",
+  "_key": "!items!07DjQXRb2iYNyafp",
+  "name": "Fireball",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. 3d6 damage to one target and the Burning status. Can set fire to flammable objects.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

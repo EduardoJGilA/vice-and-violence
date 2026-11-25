@@ -1,0 +1,21 @@
+{
+  "_id": "M4xwCeUo0Lu08nfO",
+  "_key": "!items!M4xwCeUo0Lu08nfO",
+  "name": "Good Fortune",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ritual. Requires the sacrifice of a living person.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

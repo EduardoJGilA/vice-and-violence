@@ -1,0 +1,21 @@
+{
+  "_id": "VhCfF3PjLqnASCgU",
+  "_key": "!items!VhCfF3PjLqnASCgU",
+  "name": "Dracolithian",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dragonkin sub-race (d4 = 1).</p>",
+    "smarts": -1,
+    "brawn": 1,
+    "moxie": 1,
+    "hotness": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

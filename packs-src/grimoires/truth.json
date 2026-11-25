@@ -1,0 +1,21 @@
+{
+  "_id": "kYhWBCEgwy4hEJJV",
+  "_key": "!items!kYhWBCEgwy4hEJJV",
+  "name": "Truth",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 30 minutes, 3 Spell Uses. Lasts: 15 minutes. Detects whether someone is lying, assuming their mind isn't magically protected. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 3,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

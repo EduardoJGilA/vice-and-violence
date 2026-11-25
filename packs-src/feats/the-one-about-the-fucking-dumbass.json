@@ -1,0 +1,19 @@
+{
+  "_id": "oBCWI7otL89ja66p",
+  "_key": "!items!oBCWI7otL89ja66p",
+  "name": "The One About the Fucking Dumbass",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Deals damage equal to the Proficiency Modifier to one target every round it is sung. The target must beat DC 10 + modifier to attack the Bard; after that it is immune for the encounter.</p>",
+    "classType": "bard",
+    "requirement": "Song"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

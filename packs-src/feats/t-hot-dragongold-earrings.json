@@ -1,0 +1,19 @@
+{
+  "_id": "UmhanAWXLF4D04P3",
+  "_key": "!items!UmhanAWXLF4D04P3",
+  "name": "T'hot: Dragongold Earrings",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Semi-Genuine Dragongold Earrings: +2 Smarts.</p>",
+    "classType": "cleric",
+    "requirement": "150j"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

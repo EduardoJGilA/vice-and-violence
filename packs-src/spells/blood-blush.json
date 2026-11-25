@@ -1,0 +1,21 @@
+{
+  "_id": "o7v3c4i0EcNcJ7AZ",
+  "_key": "!items!o7v3c4i0EcNcJ7AZ",
+  "name": "Blood Blush",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>After a successful Stealth Check, raises a target's Disposition by the Life Lost roll for one hour; afterwards it has -10 Disposition towards you. No Spell Uses or casting roll: sacrifice LIFE with up to two dice no higher than d10.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

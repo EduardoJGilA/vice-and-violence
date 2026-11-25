@@ -1,0 +1,21 @@
+{
+  "_id": "0rD78ujTucgEhTNC",
+  "_key": "!items!0rD78ujTucgEhTNC",
+  "name": "Imagination",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 2 hours, 8 Spell Uses. Lasts: 1 hour. Forces a target to vividly picture everything described to them, and the consequences. Great for storytelling, seducing and torture. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 8,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

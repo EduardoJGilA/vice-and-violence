@@ -1,0 +1,19 @@
+{
+  "_id": "AkquB2SiuhgF4CHp",
+  "_key": "!items!AkquB2SiuhgF4CHp",
+  "name": "Thieves' Slang",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Talk with fellow thieves about fencing, theft opportunities, schematics and weak spots without raising suspicion.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

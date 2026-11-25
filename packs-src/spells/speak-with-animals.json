@@ -1,0 +1,21 @@
+{
+  "_id": "1TFeiHGCnMts6pXI",
+  "_key": "!items!1TFeiHGCnMts6pXI",
+  "name": "Speak with Animals",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Talk with non-humanoid creatures and gain +10 to Disposition checks with them. Lasts 24 hours.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

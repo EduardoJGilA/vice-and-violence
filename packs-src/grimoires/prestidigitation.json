@@ -1,0 +1,21 @@
+{
+  "_id": "JfqV35g96JLKgFs0",
+  "_key": "!items!JfqV35g96JLKgFs0",
+  "name": "Prestidigitation",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 5 minutes, 1 Spell Uses. Lasts: 30 seconds. A harmless illusory effect such as coloured sparks, a card trick or a glowing word. No one is impressed because you're reading it out of a book. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

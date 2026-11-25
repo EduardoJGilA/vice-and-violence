@@ -1,0 +1,19 @@
+{
+  "_id": "hNvCuTyXbOWmAU5s",
+  "_key": "!items!hNvCuTyXbOWmAU5s",
+  "name": "Mimic Master",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Instantly tell when a chest is a Treasure Mimic, and tickle it so it vomits up its valuables.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

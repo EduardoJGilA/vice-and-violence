@@ -1,0 +1,19 @@
+{
+  "_id": "hxIB7ioo9IMgcYCB",
+  "_key": "!items!hxIB7ioo9IMgcYCB",
+  "name": "Endowment: Valet",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A temple novice accompanies you as a Retainer, paid by the Temple.</p>",
+    "classType": "paladin",
+    "requirement": "5 Vows"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

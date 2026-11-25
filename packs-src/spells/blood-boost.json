@@ -1,0 +1,21 @@
+{
+  "_id": "npOmQ1LcIbo76yQl",
+  "_key": "!items!npOmQ1LcIbo76yQl",
+  "name": "Blood Boost",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Adds the dice used in your Life Lost roll (not the result) to an ally's next attack, skill or spell. No Spell Uses or casting roll: sacrifice LIFE with up to two dice no higher than d10.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

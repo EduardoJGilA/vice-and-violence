@@ -1,0 +1,21 @@
+{
+  "_id": "DIeSMX3ga3WSoPNH",
+  "_key": "!items!DIeSMX3ga3WSoPNH",
+  "name": "Alloyan",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 11.</p>",
+    "smarts": -1,
+    "brawn": 0,
+    "moxie": 1,
+    "hotness": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "a9aUMAuBRBhxEg7r",
+  "_key": "!items!a9aUMAuBRBhxEg7r",
+  "name": "Sand Witch: Bacon Sandwich*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Eat 3 rations with a Tactical Action to regain 1 Exertion in combat.</p>",
+    "classType": "warlock",
+    "requirement": "4 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

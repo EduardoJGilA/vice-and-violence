@@ -1,0 +1,21 @@
+{
+  "_id": "s3kGk67ovcNGsmac",
+  "_key": "!items!s3kGk67ovcNGsmac",
+  "name": "Darkness",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A fog of pure darkness around yourself or an object. Lasts 1 hour.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

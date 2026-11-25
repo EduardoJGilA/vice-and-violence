@@ -1,0 +1,20 @@
+{
+  "_id": "WytVdsN7Qk7A1GSo",
+  "_key": "!items!WytVdsN7Qk7A1GSo",
+  "name": "Wizard",
+  "type": "class",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>learningLevel 1-6: Novice (3 spells, +4 Spell Uses), Apprentice (5 spells, 1 Advanced Spell, Wizard's Hat), Journeyman (7, +5 Uses, no more experiments), Adept (9, +5), Wizard (11, +5, cast on a roll of 6+), Master (13, +6, no casting roll).</p>",
+    "classType": "wizard",
+    "learningLevel": 0,
+    "skills": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

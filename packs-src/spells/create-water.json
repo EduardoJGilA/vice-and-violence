@@ -1,0 +1,21 @@
+{
+  "_id": "DqjGR225jUjJVxun",
+  "_key": "!items!DqjGR225jUjJVxun",
+  "name": "Create Water",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Creates a day's water for one person in a fragile bubble. Quickly cures Burning, or can be decanted.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "xX2OIc257aEvI76w",
+  "_key": "!items!xX2OIc257aEvI76w",
+  "name": "Mad Stray: Glowing Green Eyes",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Your eyes act as a light source like a lantern or torch; when open they hurt the party's Stealth.</p>",
+    "classType": "warlock",
+    "requirement": "2 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

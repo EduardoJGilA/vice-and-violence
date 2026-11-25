@@ -1,0 +1,19 @@
+{
+  "_id": "YSp2chkK5DDxXWtG",
+  "_key": "!items!YSp2chkK5DDxXWtG",
+  "name": "One-Handed Hold*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Restrain one humanoid enemy with one hand while attacking with the other, using one Combat Action (DC 12 to wriggle free). While Brawling you deal double Brawn damage with fists or improvised weapons.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 4"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

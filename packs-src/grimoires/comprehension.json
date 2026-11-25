@@ -1,0 +1,21 @@
+{
+  "_id": "yJWuddE5ciQYBmaQ",
+  "_key": "!items!yJWuddE5ciQYBmaQ",
+  "name": "Comprehension",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 3 hours, 10 Spell Uses. Lasts: 1 hour. Lets a target understand ciphers, old languages and schematics, as long as they aren't magically altered. The wizard can't cast it on themselves. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 10,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

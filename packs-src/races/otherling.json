@@ -1,0 +1,23 @@
+{
+  "_id": "Fb16mgQdIwRP7mn4",
+  "_key": "!items!Fb16mgQdIwRP7mn4",
+  "name": "Otherling",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 12. +2 to one Ability and -1 to another (asked when dropped on a sheet).</p>",
+    "smarts": 0,
+    "brawn": 0,
+    "moxie": 0,
+    "hotness": 0,
+    "pickPlus": 2,
+    "pickMinus": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

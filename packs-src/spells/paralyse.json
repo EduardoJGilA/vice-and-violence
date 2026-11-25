@@ -1,0 +1,21 @@
+{
+  "_id": "WpjYoZHxKv7uebn9",
+  "_key": "!items!WpjYoZHxKv7uebn9",
+  "name": "Paralyse",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. 1d10 damage to one target, which misses 1d4 turns.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

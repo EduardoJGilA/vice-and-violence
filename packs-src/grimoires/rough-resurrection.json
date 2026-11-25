@@ -1,0 +1,21 @@
+{
+  "_id": "kXQi6JPjkOMKsYK2",
+  "_key": "!items!kXQi6JPjkOMKsYK2",
+  "name": "Rough Resurrection",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 6 hours, 16 Spell Uses. Lasts: Indefinitely. Revives a target dead within 24 hours with 1 Life (it can't be a zombie). The target receives d6 Vices, rerolling duplicates. Not fun for anyone involved. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 16,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

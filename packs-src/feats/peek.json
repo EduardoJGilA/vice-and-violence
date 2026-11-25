@@ -1,0 +1,19 @@
+{
+  "_id": "xeqvgYccaR0ch4L8",
+  "_key": "!items!xeqvgYccaR0ch4L8",
+  "name": "Peek*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy or Light armour, peek through normal doors without a Stealth check.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

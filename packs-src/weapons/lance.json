@@ -1,0 +1,22 @@
+{
+  "_id": "yBbTltGjffSqBUlT",
+  "_key": "!items!yBbTltGjffSqBUlT",
+  "name": "Lance",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d10 damage plus Brawn. Price 90j. Deals 2d10 when mounted.</p>",
+    "kind": "lance",
+    "material": "none",
+    "die": "d10",
+    "materialBonus": 0,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "hUjONqyNKGomfDAY",
+  "_key": "!items!hUjONqyNKGomfDAY",
+  "name": "Charm",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. Turns 1 hostile enemy to your side for 1d8 rounds; adds 2d8 to a Disposition check. The target obeys your commands.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "BbtoOWg07c7KrvII",
+  "_key": "!items!BbtoOWg07c7KrvII",
+  "name": "Real Revive",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Revives a target dead for no longer than three months to full health, without becoming a zombie. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 6,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

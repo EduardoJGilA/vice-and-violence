@@ -1,0 +1,19 @@
+{
+  "_id": "l8hnv0jcojwWtWOH",
+  "_key": "!items!l8hnv0jcojwWtWOH",
+  "name": "T'hot: Bikini Gold Armour",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Medium armour (d6+1 save) that gives +2 Spell Uses.</p>",
+    "classType": "cleric",
+    "requirement": "300j"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

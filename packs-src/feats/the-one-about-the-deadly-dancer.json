@@ -1,0 +1,19 @@
+{
+  "_id": "B4R2eDsAGi9YbYne",
+  "_key": "!items!B4R2eDsAGi9YbYne",
+  "name": "The One About the Deadly Dancer",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Adds the Proficiency Modifier to an allied Dancer's damage; out of combat adds it to Hotness checks of allies of any class.</p>",
+    "classType": "bard",
+    "requirement": "Song"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

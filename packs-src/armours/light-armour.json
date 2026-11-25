@@ -1,0 +1,22 @@
+{
+  "_id": "rqdQqn9BtDgqPj0r",
+  "_key": "!items!rqdQqn9BtDgqPj0r",
+  "name": "Light Armour",
+  "type": "armour",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>65j. Joints protected, little else. Armour Save d4; +1 per upgrade (75j).</p>",
+    "category": "light",
+    "saveDie": "d4",
+    "bonus": 0,
+    "stealthPenalty": 0,
+    "equipped": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

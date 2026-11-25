@@ -1,0 +1,19 @@
+{
+  "_id": "33tOfvVMD4J790BM",
+  "_key": "!items!33tOfvVMD4J790BM",
+  "name": "Trusted Fence",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Add d50 jade to the sale value of every Treasure or Magic Item you sell at a Pawn Shop.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

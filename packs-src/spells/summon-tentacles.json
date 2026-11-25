@@ -1,0 +1,21 @@
+{
+  "_id": "osZZhMtCA92PzzvC",
+  "_key": "!items!osZZhMtCA92PzzvC",
+  "name": "Summon Tentacles",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A harmless trap that immobilises a humanoid, or 2 hours of Incredible Sex without resting for you or a target. Lasts 2 hours.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

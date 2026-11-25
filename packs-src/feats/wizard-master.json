@@ -1,0 +1,19 @@
+{
+  "_id": "cZyHwcrpTGzDSdJw",
+  "_key": "!items!cZyHwcrpTGzDSdJw",
+  "name": "Wizard Master",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Thirteen Spells Known; +6 Spell Uses and one Advanced Spell; no casting roll (you still need a Magic Staff for Advanced Spells).</p>",
+    "classType": "wizard",
+    "requirement": "Rank 6"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "iyyQsx6tVqHnOywG",
+  "_key": "!items!iyyQsx6tVqHnOywG",
+  "name": "Silence",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 2 hours, 8 Spell Uses. Lasts: 1 hour. A bubble of silence around the caster or a target. Great for stealth. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 8,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

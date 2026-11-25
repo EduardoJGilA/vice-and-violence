@@ -1,0 +1,22 @@
+{
+  "_id": "vY3aLOZCtGzp2QKo",
+  "_key": "!items!vY3aLOZCtGzp2QKo",
+  "name": "Steel Spear",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+3 damage plus Brawn. Price 120j.</p>",
+    "kind": "spear",
+    "material": "steel",
+    "die": "d6",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

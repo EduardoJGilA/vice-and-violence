@@ -1,0 +1,21 @@
+{
+  "_id": "Ce59A5nMDfuvFPVt",
+  "_key": "!items!Ce59A5nMDfuvFPVt",
+  "name": "Koboldian",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dragonkin sub-race (d4 = 4).</p>",
+    "smarts": 0,
+    "brawn": 1,
+    "moxie": -1,
+    "hotness": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "9SSF2CudQShJ4Vqr",
+  "_key": "!items!9SSF2CudQShJ4Vqr",
+  "name": "Iron Dagger",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+2 damage plus Brawn. Price 55j.</p>",
+    "kind": "dagger",
+    "material": "iron",
+    "die": "d4",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

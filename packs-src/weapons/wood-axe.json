@@ -1,0 +1,22 @@
+{
+  "_id": "Uqnkh0dcqa0JWcqC",
+  "_key": "!items!Uqnkh0dcqa0JWcqC",
+  "name": "Wood Axe",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+1 damage plus Brawn. Price 70j.</p>",
+    "kind": "axe",
+    "material": "wood",
+    "die": "d8",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

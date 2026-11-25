@@ -1,0 +1,22 @@
+{
+  "_id": "OX6AXUHHz0BCuPi2",
+  "_key": "!items!OX6AXUHHz0BCuPi2",
+  "name": "Iron Maul",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+2 damage plus Brawn. Price 110j.</p>",
+    "kind": "maul",
+    "material": "iron",
+    "die": "d8",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

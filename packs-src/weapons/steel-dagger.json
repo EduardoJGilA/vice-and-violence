@@ -1,0 +1,22 @@
+{
+  "_id": "hLawO8ZYaRDWfA59",
+  "_key": "!items!hLawO8ZYaRDWfA59",
+  "name": "Steel Dagger",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+3 damage plus Brawn. Price 95j.</p>",
+    "kind": "dagger",
+    "material": "steel",
+    "die": "d4",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

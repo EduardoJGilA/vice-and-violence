@@ -1,0 +1,19 @@
+{
+  "_id": "AjkTh46eQJKTuLd1",
+  "_key": "!items!AjkTh46eQJKTuLd1",
+  "name": "The One About the Three Legged Bard*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Target suffers Charmed, escape DC 10 + Proficiency Modifier. Once per combat per target; only while the song is sung.</p>",
+    "classType": "bard",
+    "requirement": "Song"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

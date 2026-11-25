@@ -1,0 +1,14 @@
+{
+  "name": "vice-and-violence",
+  "version": "0.6.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test/logic.test.mjs",
+    "packs:src": "node scripts/generate-packs-src.mjs",
+    "build:packs": "node scripts/build-packs.mjs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "hY8JrPQZEsZkqZvE",
+  "_key": "!items!hY8JrPQZEsZkqZvE",
+  "name": "Vision",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 15 minutes, 4 Spell Uses. Lasts: Until Recast. Creates an eyeball on an inanimate object that the caster sees through at any distance, in addition to their own eyes. It can't be closed. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 4,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

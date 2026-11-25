@@ -1,0 +1,21 @@
+{
+  "_id": "RF54co1xRJOd695P",
+  "_key": "!items!RF54co1xRJOd695P",
+  "name": "Magic Shackles",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. 2d6 damage to one target every round; it needs two Tactical Actions to move. Lasts until you next take damage.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

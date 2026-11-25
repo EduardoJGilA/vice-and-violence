@@ -1,0 +1,22 @@
+{
+  "_id": "TMjBQvcTRY52BvxZ",
+  "_key": "!items!TMjBQvcTRY52BvxZ",
+  "name": "Steel Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+3 damage plus Brawn. Price 105j.</p>",
+    "kind": "staff",
+    "material": "steel",
+    "die": "d4",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

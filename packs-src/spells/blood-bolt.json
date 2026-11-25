@@ -1,0 +1,21 @@
+{
+  "_id": "XOOAz8RgOaIhsbMW",
+  "_key": "!items!XOOAz8RgOaIhsbMW",
+  "name": "Blood Bolt",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A standard ranged magical attack. Roll two dice for the Life Lost roll; damage equals the total (a 4 and a 6 deal 14 and cost 10 LIFE). No Spell Uses or casting roll: sacrifice LIFE with up to two dice no higher than d10.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

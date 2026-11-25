@@ -1,0 +1,20 @@
+{
+  "_id": "u4oPuug13LKlokyA",
+  "_key": "!items!u4oPuug13LKlokyA",
+  "name": "For'ai",
+  "type": "birthsign",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6 result 4. Choose one Boon: +3 LIFE every Level Up, or Permanent +1 Brawn.</p>",
+    "boonA": "+3 LIFE every Level Up",
+    "boonB": "Permanent +1 Brawn",
+    "chosen": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

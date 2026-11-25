@@ -1,0 +1,19 @@
+{
+  "_id": "vHpckMKjZiZQvpLi",
+  "_key": "!items!vHpckMKjZiZQvpLi",
+  "name": "The One About Stubbing Your Toe",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Allies in the area add the Proficiency Modifier to Stealth; enemies are blinded and deafened while it plays. After a successful sneak they hunt whoever made the noise.</p>",
+    "classType": "bard",
+    "requirement": "Song"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

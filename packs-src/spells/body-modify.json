@@ -1,0 +1,21 @@
+{
+  "_id": "0zW6NSpMoRuHZf58",
+  "_key": "!items!0zW6NSpMoRuHZf58",
+  "name": "Body Modify",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Change the physical attributes of yourself or a target (sex, eye, hair and skin colour, body parts). Does not affect stats; cannot change race. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 4,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

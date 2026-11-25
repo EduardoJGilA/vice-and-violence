@@ -1,0 +1,22 @@
+{
+  "_id": "hL1cXwQJb4m9EZdk",
+  "_key": "!items!hL1cXwQJb4m9EZdk",
+  "name": "Wood Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+1 damage plus Brawn. Price 50j.</p>",
+    "kind": "sword",
+    "material": "wood",
+    "die": "d6",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "xUC3ddrBjCHZW3e8",
+  "_key": "!items!xUC3ddrBjCHZW3e8",
+  "name": "Summon 'Cubus",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1 hour, 12 Spell Uses. Lasts: 2 hours. Summons a lesser fae similar to an Otherling with pure black eyes, terrifyingly seductive. It starts fucking everyone in sight, switching body shape as needed. A great distraction. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 12,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

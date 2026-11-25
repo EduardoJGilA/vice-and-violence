@@ -1,0 +1,21 @@
+{
+  "_id": "1Zmm5dLgjsMkcbiK",
+  "_key": "!items!1Zmm5dLgjsMkcbiK",
+  "name": "Heal",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. 2d8 Life to one target. Can tame wounded animals or convince humanoid enemies to stop fighting.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

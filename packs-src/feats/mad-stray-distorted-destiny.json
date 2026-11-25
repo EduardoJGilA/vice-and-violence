@@ -1,0 +1,19 @@
+{
+  "_id": "y1pZ5ZJsjFNp1764",
+  "_key": "!items!y1pZ5ZJsjFNp1764",
+  "name": "Mad Stray: Distorted Destiny",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Spend Spell Uses to add +2 each to a Dice Challenge you roll.</p>",
+    "classType": "warlock",
+    "requirement": "6 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

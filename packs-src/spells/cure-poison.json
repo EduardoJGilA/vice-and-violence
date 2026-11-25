@@ -1,0 +1,21 @@
+{
+  "_id": "T9plChriRRWigs0a",
+  "_key": "!items!T9plChriRRWigs0a",
+  "name": "Cure Poison",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Cures the Poisoned status without alcohol.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

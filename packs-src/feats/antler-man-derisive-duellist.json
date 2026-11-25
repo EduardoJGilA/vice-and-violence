@@ -1,0 +1,19 @@
+{
+  "_id": "7VxvL7FVhWGJmuWU",
+  "_key": "!items!7VxvL7FVhWGJmuWU",
+  "name": "Antler Man: Derisive Duellist*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Use Smarts when attacking or defending instead of Brawn or Moxie.</p>",
+    "classType": "warlock",
+    "requirement": "6 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

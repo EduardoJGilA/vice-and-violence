@@ -1,0 +1,22 @@
+{
+  "_id": "auWEaFcj10wl3B2S",
+  "_key": "!items!auWEaFcj10wl3B2S",
+  "name": "Bronze Dagger",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+2 damage plus Brawn. Price 55j.</p>",
+    "kind": "dagger",
+    "material": "bronze",
+    "die": "d4",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,1518 @@
+{
+  "_id": "VRQuLzyGeGNm4aR3",
+  "_key": "!tables!VRQuLzyGeGNm4aR3",
+  "name": "Adventuring Supplies",
+  "formula": "1d100",
+  "description": "<p>Every adventurer starts with four days of food and water, a simple tent and bedroll, and d10 x 10 jade. Roll a d100 six times to determine the rest of your adventuring supplies.</p>",
+  "img": "icons/svg/d20-black.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "qtuYj2nPqW4iekoH",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.qtuYj2nPqW4iekoH",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Sapiavian Feather</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "uUDHnvfeMeiEnhvo",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.uUDHnvfeMeiEnhvo",
+      "type": "text",
+      "name": "",
+      "description": "<p>30ft of good rope</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "lUOdNrBffuHAA91y",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.lUOdNrBffuHAA91y",
+      "type": "text",
+      "name": "",
+      "description": "<p>A dusty bottle of rum</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "t4VvqMNpGdngi3Tx",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.t4VvqMNpGdngi3Tx",
+      "type": "text",
+      "name": "",
+      "description": "<p>The pelt of a Coxox</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "FAegjHv7znp7hBl2",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.FAegjHv7znp7hBl2",
+      "type": "text",
+      "name": "",
+      "description": "<p>A quill and ink</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "ixXByKQBM9asIsHG",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.ixXByKQBM9asIsHG",
+      "type": "text",
+      "name": "",
+      "description": "<p>A jar of Slugraptor slime</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "abZThuGiaa65slP3",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.abZThuGiaa65slP3",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Wyrmswurm bagpipe guitar</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "L4AeghwM4ErdungP",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.L4AeghwM4ErdungP",
+      "type": "text",
+      "name": "",
+      "description": "<p>A rusty Bullbear Trap</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "wcHpZ9Y850AT2e0c",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.wcHpZ9Y850AT2e0c",
+      "type": "text",
+      "name": "",
+      "description": "<p>A large tin of choplate chip cookies</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "oMl1zxto3YpUFs5O",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.oMl1zxto3YpUFs5O",
+      "type": "text",
+      "name": "",
+      "description": "<p>Rumpled love letters</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "rGBW90tCyS2s3xNb",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.rGBW90tCyS2s3xNb",
+      "type": "text",
+      "name": "",
+      "description": "<p>A human femur</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "W0y8MhVZjzUTK9NM",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.W0y8MhVZjzUTK9NM",
+      "type": "text",
+      "name": "",
+      "description": "<p>Several sets of spare earrings</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "cI1MGRSlgmELKElW",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.cI1MGRSlgmELKElW",
+      "type": "text",
+      "name": "",
+      "description": "<p>A jar of rumprat poison</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "h2U9t9orXU9bwdDP",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.h2U9t9orXU9bwdDP",
+      "type": "text",
+      "name": "",
+      "description": "<p>A barmaid's bra</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "vZ0R4xoOiGeAlz8X",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.vZ0R4xoOiGeAlz8X",
+      "type": "text",
+      "name": "",
+      "description": "<p>A wooden prosthetic arm</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "794nn2blyDP9Qnoh",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.794nn2blyDP9Qnoh",
+      "type": "text",
+      "name": "",
+      "description": "<p>A small joke book</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "AFFUd3vvQwjP2gky",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.AFFUd3vvQwjP2gky",
+      "type": "text",
+      "name": "",
+      "description": "<p>15 feet of sturdy bronze chain</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "Ah3t0aM2vrglBJzn",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.Ah3t0aM2vrglBJzn",
+      "type": "text",
+      "name": "",
+      "description": "<p>A crowbar</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "8u9x5enpfjAhBD6e",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.8u9x5enpfjAhBD6e",
+      "type": "text",
+      "name": "",
+      "description": "<p>Spare underwear</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "lm6ad4vvXRuJHREK",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.lm6ad4vvXRuJHREK",
+      "type": "text",
+      "name": "",
+      "description": "<p>A scroll titled \"How to Make Friends\"</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "8yQE0xjSKvWRp8O4",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.8yQE0xjSKvWRp8O4",
+      "type": "text",
+      "name": "",
+      "description": "<p>6 Lockpicks</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "gbCBYEjtBcUCIa9j",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.gbCBYEjtBcUCIa9j",
+      "type": "text",
+      "name": "",
+      "description": "<p>A fake moustache</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "LX3OYBxNsIhSg6vq",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.LX3OYBxNsIhSg6vq",
+      "type": "text",
+      "name": "",
+      "description": "<p>A vial of pink lipstick</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "F3tIrHfL25a6wGZF",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.F3tIrHfL25a6wGZF",
+      "type": "text",
+      "name": "",
+      "description": "<p>A lantern and oil</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "QhRhfyQ470yhBlNz",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.QhRhfyQ470yhBlNz",
+      "type": "text",
+      "name": "",
+      "description": "<p>A bag of ball bearings</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "YsHehoPqY19dIOdo",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.YsHehoPqY19dIOdo",
+      "type": "text",
+      "name": "",
+      "description": "<p>A spare leather choker</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "OburFpqx3Tsyupyi",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.OburFpqx3Tsyupyi",
+      "type": "text",
+      "name": "",
+      "description": "<p>A pair of handcuffs</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "OsVOMKmOk0OoeLPP",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.OsVOMKmOk0OoeLPP",
+      "type": "text",
+      "name": "",
+      "description": "<p>A glass poison gas trap</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "2FPBV9R14Yyfpwei",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.2FPBV9R14Yyfpwei",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Dragonmarrow harmonica</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "cN9ypImjyNd2kdZS",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.cN9ypImjyNd2kdZS",
+      "type": "text",
+      "name": "",
+      "description": "<p>A selection of friendship bracelets</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "5BkKnEQYHfAdNWZT",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.5BkKnEQYHfAdNWZT",
+      "type": "text",
+      "name": "",
+      "description": "<p>A small urn</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "S0RCqGhwYKPdpdSH",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.S0RCqGhwYKPdpdSH",
+      "type": "text",
+      "name": "",
+      "description": "<p>10 sheets of blank parchment</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "kZgWwwdCA9gi4zgI",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.kZgWwwdCA9gi4zgI",
+      "type": "text",
+      "name": "",
+      "description": "<p>A balloon of Hermaphryena semen</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "wBVIrXTFfePBXKi8",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.wBVIrXTFfePBXKi8",
+      "type": "text",
+      "name": "",
+      "description": "<p>A tinderbox</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "W9r33QgcInXFiUzn",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.W9r33QgcInXFiUzn",
+      "type": "text",
+      "name": "",
+      "description": "<p>A six hour hourglass</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "mTzzuakNrRBTmIYM",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.mTzzuakNrRBTmIYM",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Longleopard stringgut violin</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "ed90FLl9sYGSQkkp",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.ed90FLl9sYGSQkkp",
+      "type": "text",
+      "name": "",
+      "description": "<p>A tin of Bastardgrass</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "MEhbyNXETLQbnTHE",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.MEhbyNXETLQbnTHE",
+      "type": "text",
+      "name": "",
+      "description": "<p>A severely dented bronze helmet</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "4xRzLpAeqHTaMGLz",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.4xRzLpAeqHTaMGLz",
+      "type": "text",
+      "name": "",
+      "description": "<p>A threenut butter and jelly sandwich</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "03QdxA1lluit7iGt",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.03QdxA1lluit7iGt",
+      "type": "text",
+      "name": "",
+      "description": "<p>A small forearm shield (+1 Moxie)</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "haEjt7R4EHAJsEWW",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.haEjt7R4EHAJsEWW",
+      "type": "text",
+      "name": "",
+      "description": "<p>A deck of playing cards</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "ulhHqLH8CDLfLV0H",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.ulhHqLH8CDLfLV0H",
+      "type": "text",
+      "name": "",
+      "description": "<p>Three scented candles</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "2Hd8yRLMljBo1wW4",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.2Hd8yRLMljBo1wW4",
+      "type": "text",
+      "name": "",
+      "description": "<p>A pot of Phallungus fungus</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "NrXfFbxAslspGhPH",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.NrXfFbxAslspGhPH",
+      "type": "text",
+      "name": "",
+      "description": "<p>A pair of high heels</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "IzZ3oRqc8llG4nmu",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.IzZ3oRqc8llG4nmu",
+      "type": "text",
+      "name": "",
+      "description": "<p>4 servings of Dairygirl milk (+1 Brawn)</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "2GHqOlA5kMeLDSZZ",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.2GHqOlA5kMeLDSZZ",
+      "type": "text",
+      "name": "",
+      "description": "<p>A small faded painting</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "CR10k874TPZSN0Qb",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.CR10k874TPZSN0Qb",
+      "type": "text",
+      "name": "",
+      "description": "<p>A gold locket</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "LIsw5eihNENir9NA",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.LIsw5eihNENir9NA",
+      "type": "text",
+      "name": "",
+      "description": "<p>A still-talking zombie head</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "st0Y4x6FkrUZb3Jb",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.st0Y4x6FkrUZb3Jb",
+      "type": "text",
+      "name": "",
+      "description": "<p>A revealing silk outfit (+1 Hotness)</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "lYF76fXpMFeRunfC",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.lYF76fXpMFeRunfC",
+      "type": "text",
+      "name": "",
+      "description": "<p>A set of flammable juggling pins</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "Gol67drjjUpSec9I",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.Gol67drjjUpSec9I",
+      "type": "text",
+      "name": "",
+      "description": "<p>A note describing your mother</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "RjQa94FLiwhP90rJ",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.RjQa94FLiwhP90rJ",
+      "type": "text",
+      "name": "",
+      "description": "<p>An invitation to the island of Shagahol</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "f7BJ4PYJ3yj8x2Y9",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.f7BJ4PYJ3yj8x2Y9",
+      "type": "text",
+      "name": "",
+      "description": "<p>A magnifying glass</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "AzQa9oDEGLqDExOZ",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.AzQa9oDEGLqDExOZ",
+      "type": "text",
+      "name": "",
+      "description": "<p>A vial of strong acid</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "EVHi7izHr25YwuIW",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.EVHi7izHr25YwuIW",
+      "type": "text",
+      "name": "",
+      "description": "<p>A box of coloured chalk</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "P0BPpqFjJbvHLzt4",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.P0BPpqFjJbvHLzt4",
+      "type": "text",
+      "name": "",
+      "description": "<p>A wooden key harp</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "49lqo2YnkYVoEZDL",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.49lqo2YnkYVoEZDL",
+      "type": "text",
+      "name": "",
+      "description": "<p>A leaf from the Bone Forest</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "hRQiSiarbkUDs2np",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.hRQiSiarbkUDs2np",
+      "type": "text",
+      "name": "",
+      "description": "<p>A fishing rod and a tin of worms</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "UZgnCJTTeih2qKUx",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.UZgnCJTTeih2qKUx",
+      "type": "text",
+      "name": "",
+      "description": "<p>A rain catching funnel</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "EIFSAckbkrGsYxWC",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.EIFSAckbkrGsYxWC",
+      "type": "text",
+      "name": "",
+      "description": "<p>A famous warrior's autobiography</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "5F5ePwXqdgyv1Dxp",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.5F5ePwXqdgyv1Dxp",
+      "type": "text",
+      "name": "",
+      "description": "<p>A chit for a free beer at a local brothel</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "3iyNklNPvcZcHUNw",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.3iyNklNPvcZcHUNw",
+      "type": "text",
+      "name": "",
+      "description": "<p>A purse of d100 extra jade</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "TCfxLA52Sd2IOjXR",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.TCfxLA52Sd2IOjXR",
+      "type": "text",
+      "name": "",
+      "description": "<p>A VIP Pass to Shuvitinabuti's breeding program</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "xz0c8biSerNYvUGl",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.xz0c8biSerNYvUGl",
+      "type": "text",
+      "name": "",
+      "description": "<p>A pair of reading glasses</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "ZGM7CbuoueMrhiAH",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.ZGM7CbuoueMrhiAH",
+      "type": "text",
+      "name": "",
+      "description": "<p>An Orc tusk</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "SmWeVLAYml8IH6dQ",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.SmWeVLAYml8IH6dQ",
+      "type": "text",
+      "name": "",
+      "description": "<p>5 poison darts</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "vb4XzpK4bjUHSyzK",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.vb4XzpK4bjUHSyzK",
+      "type": "text",
+      "name": "",
+      "description": "<p>A note from a former teacher saying \"See Me\"</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "onRSA8DNO0r2V6vy",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.onRSA8DNO0r2V6vy",
+      "type": "text",
+      "name": "",
+      "description": "<p>A diamond glass cutter</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "dNBVw0i5mZccOGju",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.dNBVw0i5mZccOGju",
+      "type": "text",
+      "name": "",
+      "description": "<p>Several final notice debt letters</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "JdBSiTDdEwFDe61H",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.JdBSiTDdEwFDe61H",
+      "type": "text",
+      "name": "",
+      "description": "<p>A stripper's pasties</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "2QHTGlP9wJSf6fTz",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.2QHTGlP9wJSf6fTz",
+      "type": "text",
+      "name": "",
+      "description": "<p>A compass</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "brXYZP4DTzZmx6bj",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.brXYZP4DTzZmx6bj",
+      "type": "text",
+      "name": "",
+      "description": "<p>A wooden wedding ring</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "ldkXzLBFifLMPPcM",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.ldkXzLBFifLMPPcM",
+      "type": "text",
+      "name": "",
+      "description": "<p>A half empty bottle of banana daiquiri</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "vNFYPUEcR7HtWfOo",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.vNFYPUEcR7HtWfOo",
+      "type": "text",
+      "name": "",
+      "description": "<p>A metal file</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "SaL5PN8Xe2byxuvT",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.SaL5PN8Xe2byxuvT",
+      "type": "text",
+      "name": "",
+      "description": "<p>A bag of caltrops</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "nsgXaYupAdtrVu06",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.nsgXaYupAdtrVu06",
+      "type": "text",
+      "name": "",
+      "description": "<p>A ball of yarn</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "EG6V4Po7XCuMwnsf",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.EG6V4Po7XCuMwnsf",
+      "type": "text",
+      "name": "",
+      "description": "<p>A set of house keys</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "XWwXejPdeFq6tmIM",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.XWwXejPdeFq6tmIM",
+      "type": "text",
+      "name": "",
+      "description": "<p>A pirate's red bandana</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "6uCoNBRu38mEtcUV",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.6uCoNBRu38mEtcUV",
+      "type": "text",
+      "name": "",
+      "description": "<p>The loin cloth of a Rimnori elf</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "7BwF3W7mrgG7UgTp",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.7BwF3W7mrgG7UgTp",
+      "type": "text",
+      "name": "",
+      "description": "<p>A sketchbook of pornographic drawings</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "S5of08M84lXx7Da7",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.S5of08M84lXx7Da7",
+      "type": "text",
+      "name": "",
+      "description": "<p>A skinning knife (+1 Meat from dead animals)</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "Y5kkHYELPgNLAABW",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.Y5kkHYELPgNLAABW",
+      "type": "text",
+      "name": "",
+      "description": "<p>Several of your own teeth</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "rhuk9zHOGXNafgem",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.rhuk9zHOGXNafgem",
+      "type": "text",
+      "name": "",
+      "description": "<p>A hackey sack</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "XIoLayvZYoc3ZxqA",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.XIoLayvZYoc3ZxqA",
+      "type": "text",
+      "name": "",
+      "description": "<p>An arena blood sponge</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "BfCabPgRUhSvMpEg",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.BfCabPgRUhSvMpEg",
+      "type": "text",
+      "name": "",
+      "description": "<p>A former lover's favourite tunic</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "iS3wJtidW26d6mi7",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.iS3wJtidW26d6mi7",
+      "type": "text",
+      "name": "",
+      "description": "<p>4 vials of Antidote</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "DQer8AiPyAmpN9or",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.DQer8AiPyAmpN9or",
+      "type": "text",
+      "name": "",
+      "description": "<p>A pack of bubblegum</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "XHDjUqpRAaPOvU2t",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.XHDjUqpRAaPOvU2t",
+      "type": "text",
+      "name": "",
+      "description": "<p>A voucher for a free Blood Magic Spell</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "sXQl7IW5JTdeyZ5E",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.sXQl7IW5JTdeyZ5E",
+      "type": "text",
+      "name": "",
+      "description": "<p>A snare trap</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "WLyobdWXHKhchybt",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.WLyobdWXHKhchybt",
+      "type": "text",
+      "name": "",
+      "description": "<p>A straight razor and shaving kit</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "gkm7virVczKAM63N",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.gkm7virVczKAM63N",
+      "type": "text",
+      "name": "",
+      "description": "<p>A hand carved bong</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "H8Iq8uQYMvZLoDe2",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.H8Iq8uQYMvZLoDe2",
+      "type": "text",
+      "name": "",
+      "description": "<p>3 pinches of Whiffsniff (+1 Exertion per use)</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "fpY6I9rwq7Ljyvbd",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.fpY6I9rwq7Ljyvbd",
+      "type": "text",
+      "name": "",
+      "description": "<p>Leather reins and a saddle</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "fmBPHP9VVUzdenos",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.fmBPHP9VVUzdenos",
+      "type": "text",
+      "name": "",
+      "description": "<p>A small mirror</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "0y2H6JYSAJbe3eeL",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.0y2H6JYSAJbe3eeL",
+      "type": "text",
+      "name": "",
+      "description": "<p>A very harshly worded employee evaluation</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "HwjYcna9l0dTWnRw",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.HwjYcna9l0dTWnRw",
+      "type": "text",
+      "name": "",
+      "description": "<p>A sealed envelope from a local cult</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "0zaEPeJrKFgndApT",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.0zaEPeJrKFgndApT",
+      "type": "text",
+      "name": "",
+      "description": "<p>A gentleman's sexual relief appliance</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "9PSozevXoYMOoTzT",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.9PSozevXoYMOoTzT",
+      "type": "text",
+      "name": "",
+      "description": "<p>A hammer and bag of nails</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "vERjSEqeF1FG5gJw",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.vERjSEqeF1FG5gJw",
+      "type": "text",
+      "name": "",
+      "description": "<p>d10 extra rations</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "4Sr4sjjA9ViLShxA",
+      "_key": "!tables.results!VRQuLzyGeGNm4aR3.4Sr4sjjA9ViLShxA",
+      "type": "text",
+      "name": "",
+      "description": "<p>A pet (roll a d6 on the Pets table)</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

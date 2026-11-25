@@ -1,0 +1,183 @@
+{
+  "_id": "NT51BzWwsGh1bqSZ",
+  "_key": "!tables!NT51BzWwsGh1bqSZ",
+  "name": "Fuck Up Table",
+  "formula": "1d11",
+  "description": "<p>When a Light, Death or Advanced spell fails to cast, the failed total picks the effect (1 to 11). A Magic Staff charge or a result you turned into a cast prevents it.</p>",
+  "img": "icons/svg/d20-black.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "sqZkiFTfECkYmws2",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.sqZkiFTfECkYmws2",
+      "type": "text",
+      "name": "",
+      "description": "<p>You explode: everyone nearby takes d6, allies gain a Vice. You're dead.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "CePip1xZwKrNoWY8",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.CePip1xZwKrNoWY8",
+      "type": "text",
+      "name": "",
+      "description": "<p>Light pours out of you: target Blinded; you turn to ash. You're dead.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "0AE0leIDvL34Edfu",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.0AE0leIDvL34Edfu",
+      "type": "text",
+      "name": "",
+      "description": "<p>Your arm explodes: 4d10 damage, no weapon above d8.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "gRSq1vzVbUIUXIO3",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.gRSq1vzVbUIUXIO3",
+      "type": "text",
+      "name": "",
+      "description": "<p>Blood pours out: 3d6 damage; cast a random Blood Magic spell at the target.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "ZtWuPxpgnstj8LL7",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.ZtWuPxpgnstj8LL7",
+      "type": "text",
+      "name": "",
+      "description": "<p>The spell explodes: d6 damage to you and everyone around.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "kVxg7z9gqIYNZyu4",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.kVxg7z9gqIYNZyu4",
+      "type": "text",
+      "name": "",
+      "description": "<p>You float, weightless: lose 1 turn.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "7PwkJdNkxB91Mp6i",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.7PwkJdNkxB91Mp6i",
+      "type": "text",
+      "name": "",
+      "description": "<p>Knocked down: lose remaining Tactical Actions getting up.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "CMuSdPssinMnkuwB",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.CMuSdPssinMnkuwB",
+      "type": "text",
+      "name": "",
+      "description": "<p>You cancel it in time: lose 1 Exertion use.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "AgIN0XwHGM8w1rNY",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.AgIN0XwHGM8w1rNY",
+      "type": "text",
+      "name": "",
+      "description": "<p>Clothes and armour ripped off: you lose 1 turn, target loses 1 turn laughing.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "MFdfwzqcIjjz7hVT",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.MFdfwzqcIjjz7hVT",
+      "type": "text",
+      "name": "",
+      "description": "<p>The spell fizzles: target loses a Tactical Action.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "2wo3WcOfkhhRjCd2",
+      "_key": "!tables.results!NT51BzWwsGh1bqSZ.2wo3WcOfkhhRjCd2",
+      "type": "text",
+      "name": "",
+      "description": "<p>The spell works at half the intended effect.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "S5UYwrzXVQg2s56s",
+  "_key": "!items!S5UYwrzXVQg2s56s",
+  "name": "Blood Scrying",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ritual. Requires the sacrifice of a living person; ask the GM two yes or no questions.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "44mE4oU3QPck97TE",
+  "_key": "!items!44mE4oU3QPck97TE",
+  "name": "Read Mind",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 1 hour, 15 Spell Uses. Lasts: 15 minutes. The caster reads the target's thoughts; the target is aware of it. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 15,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

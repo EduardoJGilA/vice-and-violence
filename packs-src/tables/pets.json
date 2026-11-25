@@ -1,0 +1,108 @@
+{
+  "_id": "ztpAAiT5xm2Oa8Ld",
+  "_key": "!tables!ztpAAiT5xm2Oa8Ld",
+  "name": "Pets",
+  "formula": "1d6",
+  "description": "<p>Result 100 on the Adventuring Supplies table: roll a d6 to see which pet you get.</p>",
+  "img": "icons/svg/d20-black.svg",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "O8PWAMq6PK8Q0F2O",
+      "_key": "!tables.results!ztpAAiT5xm2Oa8Ld.O8PWAMq6PK8Q0F2O",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Splatcat: an extremely fluffy, extremely pudgy, six legged cat. Basically useless.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "44ecN7RbY9wFxUtm",
+      "_key": "!tables.results!ztpAAiT5xm2Oa8Ld.44ecN7RbY9wFxUtm",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Squish: a ball of slime with eyes that can fit through the smallest cracks.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "HOFKDT17jIwOl5gY",
+      "_key": "!tables.results!ztpAAiT5xm2Oa8Ld.HOFKDT17jIwOl5gY",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Minimimic: a pygmy mimic that can morph into objects as large as a bowling ball.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "mxXDnGwTZQkr8Qad",
+      "_key": "!tables.results!ztpAAiT5xm2Oa8Ld.mxXDnGwTZQkr8Qad",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Nightwoofer: a nocturnal lemur-like creature that barks like a dog when frightened.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "ZJ6QuQ6D6qJBlPLv",
+      "_key": "!tables.results!ztpAAiT5xm2Oa8Ld.ZJ6QuQ6D6qJBlPLv",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Sapiavian: a small talking bird with the intelligence of a person.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "VybMXldcQCcRx1fF",
+      "_key": "!tables.results!ztpAAiT5xm2Oa8Ld.VybMXldcQCcRx1fF",
+      "type": "text",
+      "name": "",
+      "description": "<p>A Crapdragon: a tiny dragon that breathes fire hot enough to melt iron, eventually.</p>",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {}
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

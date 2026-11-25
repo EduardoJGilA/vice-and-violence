@@ -1,0 +1,21 @@
+{
+  "_id": "qtmyuGi0cYPAc3ZC",
+  "_key": "!items!qtmyuGi0cYPAc3ZC",
+  "name": "Group Heal",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. 1d8 Life to d4 targets. Can pacify bar brawls or cult bloodletting rituals.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "5xAvwXsci2tT9FM5",
+  "_key": "!items!5xAvwXsci2tT9FM5",
+  "name": "Invisibility",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Makes an object or person invisible; attacking or sudden movement ends it. Lasts 6 hours.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "ThIDqLc7Lcg2MR9J",
+  "_key": "!items!ThIDqLc7Lcg2MR9J",
+  "name": "Antler Man: Endless Inquisitive*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Reroll any out-of-combat Smarts Dice Challenge, such as lockpicking.</p>",
+    "classType": "warlock",
+    "requirement": "2 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "pmw65YxZUZZLI43k",
+  "_key": "!items!pmw65YxZUZZLI43k",
+  "name": "Force Push",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. 2d4 damage to one target, pushing it away and making it Prone. Can trigger traps or lift willing humanoids to second-story windows.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

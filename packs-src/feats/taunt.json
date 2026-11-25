@@ -1,0 +1,19 @@
+{
+  "_id": "yq4um8kwzlyGwywy",
+  "_key": "!items!yq4um8kwzlyGwywy",
+  "name": "Taunt",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Goads d4 enemies into attacking you. Causes no damage. If the first target is killed, excess carries to the next.</p>",
+    "classType": "martial",
+    "requirement": "Martial Skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

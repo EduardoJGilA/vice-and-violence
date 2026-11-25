@@ -1,0 +1,19 @@
+{
+  "_id": "QRsJWmbqRWvLStuo",
+  "_key": "!items!QRsJWmbqRWvLStuo",
+  "name": "The One About the Fair Maiden",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Heals one ally, or splits the Proficiency Modifier among several, every round it is sung. Out of combat only once while the party rests.</p>",
+    "classType": "bard",
+    "requirement": "Song"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

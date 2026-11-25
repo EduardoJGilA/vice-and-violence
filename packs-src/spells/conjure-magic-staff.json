@@ -1,0 +1,21 @@
+{
+  "_id": "FvujC1YgyYouqv0x",
+  "_key": "!items!FvujC1YgyYouqv0x",
+  "name": "Conjure Magic Staff",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Conjures a Magic Staff. Each Spell Use spent adds one Fuck Up it can channel (3 Spell Uses = a 3 Fuck Ups staff).</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

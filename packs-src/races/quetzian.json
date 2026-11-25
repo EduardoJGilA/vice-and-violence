@@ -1,0 +1,21 @@
+{
+  "_id": "cWkb91rNtXSPsyg5",
+  "_key": "!items!cWkb91rNtXSPsyg5",
+  "name": "Quetzian",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Dragonkin sub-race (d4 = 2).</p>",
+    "smarts": 2,
+    "brawn": 0,
+    "moxie": -1,
+    "hotness": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "lL4BPHYvvHl0j1Ev",
+  "_key": "!items!lL4BPHYvvHl0j1Ev",
+  "name": "Steel Greatsword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d10+3 damage plus Brawn. Price 155j.</p>",
+    "kind": "greatsword",
+    "material": "steel",
+    "die": "d10",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

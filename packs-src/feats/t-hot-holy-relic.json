@@ -1,0 +1,19 @@
+{
+  "_id": "XCYv7IzmxE67tXZf",
+  "_key": "!items!XCYv7IzmxE67tXZf",
+  "name": "T'hot: Holy Relic",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Each additional relic adds +1 to the effect of healing spells.</p>",
+    "classType": "cleric",
+    "requirement": "100j each"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

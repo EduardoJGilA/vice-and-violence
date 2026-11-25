@@ -1,0 +1,19 @@
+{
+  "_id": "Zar9B2wOqtLu1UUu",
+  "_key": "!items!Zar9B2wOqtLu1UUu",
+  "name": "Protect",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Take any damage aimed at an ally. Can be used alongside a Combat Action.</p>",
+    "classType": "martial",
+    "requirement": "Martial Skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

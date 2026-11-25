@@ -1,0 +1,21 @@
+{
+  "_id": "ypwG5ilYdsa2lB0a",
+  "_key": "!items!ypwG5ilYdsa2lB0a",
+  "name": "Cheat Fate",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Modify the result of any dice roll, in or out of combat. Once a day.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

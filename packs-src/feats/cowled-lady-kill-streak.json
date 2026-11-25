@@ -1,0 +1,19 @@
+{
+  "_id": "Btz5e1u7LWF5qZO4",
+  "_key": "!items!Btz5e1u7LWF5qZO4",
+  "name": "Cowled Lady: Kill Streak*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Immune to Berserk; you may become Berserk at will and end it at will.</p>",
+    "classType": "warlock",
+    "requirement": "4 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

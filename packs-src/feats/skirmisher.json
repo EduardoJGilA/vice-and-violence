@@ -1,0 +1,19 @@
+{
+  "_id": "Jbzx9UFLWsC4atDU",
+  "_key": "!items!Jbzx9UFLWsC4atDU",
+  "name": "Skirmisher*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Wield a one-handed (up to d10) weapon in each hand: a second basic attack for half damage in the same Combat Action.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 1"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

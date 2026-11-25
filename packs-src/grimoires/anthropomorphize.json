@@ -1,0 +1,21 @@
+{
+  "_id": "kOqTReEKxlRewtfS",
+  "_key": "!items!kOqTReEKxlRewtfS",
+  "name": "Anthropomorphize",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 2 hours, 12 Spell Uses. Lasts: 24 hours. Gives an inanimate object sapience so it can talk. Roll a -5 Disposition check for how cooperative it is; most things don't like being alive. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 12,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

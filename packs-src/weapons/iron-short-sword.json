@@ -1,0 +1,22 @@
+{
+  "_id": "JBRV3UuRhQCei73x",
+  "_key": "!items!JBRV3UuRhQCei73x",
+  "name": "Iron Short Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+2 damage plus Brawn. Price 60j.</p>",
+    "kind": "short-sword",
+    "material": "iron",
+    "die": "d4",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

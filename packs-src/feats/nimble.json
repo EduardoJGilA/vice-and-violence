@@ -1,0 +1,19 @@
+{
+  "_id": "WsCDOzC5A9pU6TbT",
+  "_key": "!items!WsCDOzC5A9pU6TbT",
+  "name": "Nimble*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy armour subtract d6 from falling damage (falling prone, heights, Difficult Terrain).</p>",
+    "classType": "dancer",
+    "requirement": "3 sessions"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

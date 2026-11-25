@@ -1,0 +1,22 @@
+{
+  "_id": "BFZiEednUJy1d2xH",
+  "_key": "!items!BFZiEednUJy1d2xH",
+  "name": "Stone Hammer",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+1 damage plus Brawn. Price 60j.</p>",
+    "kind": "hammer",
+    "material": "stone",
+    "die": "d6",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

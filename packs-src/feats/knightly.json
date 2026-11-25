@@ -1,0 +1,19 @@
+{
+  "_id": "nSaKi3YJhaQDU3O9",
+  "_key": "!items!nSaKi3YJhaQDU3O9",
+  "name": "Knightly*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Full or Fitted armour use Brawn or Moxie instead of Hotness for Disposition checks; the Protect skill needs no Dice Challenge and only 1 Tactical Action.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 3"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

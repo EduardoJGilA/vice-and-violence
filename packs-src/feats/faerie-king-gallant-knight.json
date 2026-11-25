@@ -1,0 +1,19 @@
+{
+  "_id": "YAM7WtIfco2SLpxw",
+  "_key": "!items!YAM7WtIfco2SLpxw",
+  "name": "Faerie King: Gallant Knight*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Use Hotness instead of Moxie for Armour Saves.</p>",
+    "classType": "warlock",
+    "requirement": "6 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

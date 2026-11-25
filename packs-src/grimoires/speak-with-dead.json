@@ -1,0 +1,21 @@
+{
+  "_id": "wvSVuloiLSZPAz23",
+  "_key": "!items!wvSVuloiLSZPAz23",
+  "name": "Speak with Dead",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 30 minutes, 6 Spell Uses. Lasts: 15 minutes. Speak with a corpse that died within the year. Requires a Disposition check. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 6,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

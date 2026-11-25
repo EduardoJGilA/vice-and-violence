@@ -1,0 +1,21 @@
+{
+  "_id": "EMwAIOnnmW10GYaJ",
+  "_key": "!items!EMwAIOnnmW10GYaJ",
+  "name": "Blood Trap",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>A boiling bubble of blood on a surface; an enemy passing by or interacting with it takes damage equal to the Life Lost roll. No Spell Uses or casting roll: sacrifice LIFE with up to two dice no higher than d10.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "8sCJE0O8X07IdZhv",
+  "_key": "!items!8sCJE0O8X07IdZhv",
+  "name": "Iron Staff",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+2 damage plus Brawn. Price 65j.</p>",
+    "kind": "staff",
+    "material": "iron",
+    "die": "d4",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

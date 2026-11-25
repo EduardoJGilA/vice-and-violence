@@ -1,0 +1,19 @@
+{
+  "_id": "rvqLxEkQ9eyUk3it",
+  "_key": "!items!rvqLxEkQ9eyUk3it",
+  "name": "The One About Fucking the Dragon",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Adds the Proficiency Modifier to all Sex rolls of the Bard or a nearby ally; in combat gives an ally +modifier Moxie for one round (once per encounter).</p>",
+    "classType": "bard",
+    "requirement": "Song"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "e8MOK2Wtxb0MIxsi",
+  "_key": "!items!e8MOK2Wtxb0MIxsi",
+  "name": "Antler Man: Unfinished Business*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Once per 24 hours, get back up with 1 Life after being Downed.</p>",
+    "classType": "warlock",
+    "requirement": "4 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

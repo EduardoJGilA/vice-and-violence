@@ -1,0 +1,19 @@
+{
+  "_id": "ElQ16l9epORFagcf",
+  "_key": "!items!ElQ16l9epORFagcf",
+  "name": "Gorgeous*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy armour use Hotness for attacks instead of Brawn.</p>",
+    "classType": "dancer",
+    "requirement": "2 sessions"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

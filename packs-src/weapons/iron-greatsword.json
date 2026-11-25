@@ -1,0 +1,22 @@
+{
+  "_id": "cpSWATxPEYlfv48x",
+  "_key": "!items!cpSWATxPEYlfv48x",
+  "name": "Iron Greatsword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d10+2 damage plus Brawn. Price 115j.</p>",
+    "kind": "greatsword",
+    "material": "iron",
+    "die": "d10",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

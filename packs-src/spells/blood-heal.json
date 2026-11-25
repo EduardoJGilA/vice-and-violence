@@ -1,0 +1,21 @@
+{
+  "_id": "7nuHS3Ly6zlPvUFw",
+  "_key": "!items!7nuHS3Ly6zlPvUFw",
+  "name": "Blood Heal",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Heals an allied target for the Life Lost roll. No Spell Uses or casting roll: sacrifice LIFE with up to two dice no higher than d10.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

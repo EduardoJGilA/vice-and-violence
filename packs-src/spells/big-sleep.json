@@ -1,0 +1,21 @@
+{
+  "_id": "S7e8uk7glIC88Blf",
+  "_key": "!items!S7e8uk7glIC88Blf",
+  "name": "Big Sleep",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. Applies the Sleep spell to 2d6 targets.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

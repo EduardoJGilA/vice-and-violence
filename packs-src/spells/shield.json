@@ -1,0 +1,21 @@
+{
+  "_id": "hWWfNNXekeOtNx1z",
+  "_key": "!items!hWWfNNXekeOtNx1z",
+  "name": "Shield",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. 2d8 bonus Armour to 1 target for 1 round. Can be cast on opposite walls to create a magic barrier.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

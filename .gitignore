@@ -1,0 +1,28 @@
+# Dependencias y builds de compendios
+node_modules/
+packs/
+dist/
+*.zip
+
+# Config local, logs y temporales
+.env
+.env.*
+fvtt.config.json
+*.log
+*.tmp
+*.bak
+
+# Material fuente / docs internos de diseño e IA
+*.pdf
+DESIGN.md
+PRODUCT.md
+.impeccable/
+.claude/
+.agents/
+
+# SO y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,22 @@
+{
+  "_id": "zHRfxI9muNZLIAVM",
+  "_key": "!items!zHRfxI9muNZLIAVM",
+  "name": "Bronze Hammer",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+2 damage plus Brawn. Price 80j.</p>",
+    "kind": "hammer",
+    "material": "bronze",
+    "die": "d6",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

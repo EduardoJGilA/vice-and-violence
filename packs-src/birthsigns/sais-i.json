@@ -1,0 +1,20 @@
+{
+  "_id": "2VBT1Pu2tNtFOpz3",
+  "_key": "!items!2VBT1Pu2tNtFOpz3",
+  "name": "Sais'i",
+  "type": "birthsign",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6 result 6. Choose one Boon: Roll for two Light Magic spells, or Permanent +2 Hotness.</p>",
+    "boonA": "Roll for two Light Magic spells",
+    "boonB": "Permanent +2 Hotness",
+    "chosen": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

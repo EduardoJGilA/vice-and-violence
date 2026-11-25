@@ -1,0 +1,19 @@
+{
+  "_id": "XMtMoPU0PfM1dMLa",
+  "_key": "!items!XMtMoPU0PfM1dMLa",
+  "name": "Mad Stray: Creating Fate*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Learn Cheat Fate; it costs 10 Spell Uses and works on any DC roll, even other adventurers'.</p>",
+    "classType": "warlock",
+    "requirement": "4 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

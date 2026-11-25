@@ -1,0 +1,21 @@
+{
+  "_id": "k8UKey7kajwO13VW",
+  "_key": "!items!k8UKey7kajwO13VW",
+  "name": "Hear Stuff",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 2 hours, 8 Spell Uses. Lasts: 1 hour. Hear even the quietest whisper within three hundred feet. Not useful in a busy area. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 8,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

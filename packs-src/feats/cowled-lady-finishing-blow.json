@@ -1,0 +1,19 @@
+{
+  "_id": "sI9ap8G8epkvcWA9",
+  "_key": "!items!sI9ap8G8epkvcWA9",
+  "name": "Cowled Lady: Finishing Blow*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>If you down an enemy you may kill them immediately without using a Combat Action.</p>",
+    "classType": "warlock",
+    "requirement": "2 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

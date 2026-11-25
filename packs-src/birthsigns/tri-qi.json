@@ -1,0 +1,20 @@
+{
+  "_id": "DwpsvUhRj7lKV6VB",
+  "_key": "!items!DwpsvUhRj7lKV6VB",
+  "name": "Tri'qi",
+  "type": "birthsign",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6 result 3. Choose one Boon: +1 Exertion Uses, or Permanent +1 Moxie.</p>",
+    "boonA": "+1 Exertion Uses",
+    "boonB": "Permanent +1 Moxie",
+    "chosen": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

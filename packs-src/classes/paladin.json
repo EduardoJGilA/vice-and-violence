@@ -1,0 +1,20 @@
+{
+  "_id": "u6rbeNMRGFRkioGy",
+  "_key": "!items!u6rbeNMRGFRkioGy",
+  "name": "Paladin",
+  "type": "class",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Temple of T'hot. Takes Vows (never revocable). 3 Vows: Sense Magic; 5: Valet; 7: Fitted Armour; 9: Spellsaber. Justice, Purity, Honour, Duty and others. Breaking a Vow means permanent expulsion.</p>",
+    "classType": "paladin",
+    "learningLevel": 0,
+    "skills": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

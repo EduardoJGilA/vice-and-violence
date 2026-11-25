@@ -1,0 +1,22 @@
+{
+  "_id": "wj7KC4ZrWmEfYvuP",
+  "_key": "!items!wj7KC4ZrWmEfYvuP",
+  "name": "Curved Greatsword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>2d6 damage plus Brawn. Price 100j. Grants the Cleave martial skill while in use.</p>",
+    "kind": "curved-greatsword",
+    "material": "none",
+    "die": "2d6",
+    "materialBonus": 0,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

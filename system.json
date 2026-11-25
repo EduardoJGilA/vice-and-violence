@@ -1,0 +1,125 @@
+{
+  "id": "vice-and-violence",
+  "title": "Vice & Violence",
+  "description": "Rules-light, procedure-heavy adventurer-life RPG for Foundry VTT v14.",
+  "version": "0.6.2",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.364",
+    "maximum": "14.999"
+  },
+  "authors": [
+    {
+      "name": "Vice & Violence system contributors"
+    }
+  ],
+  "esmodules": [
+    "vice-and-violence.mjs"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "documentTypes": {
+    "Actor": {
+      "character": {},
+      "npc": {}
+    },
+    "Item": {
+      "weapon": {},
+      "armour": {},
+      "staff": {},
+      "spell": {},
+      "class": {},
+      "race": {},
+      "birthsign": {},
+      "vice": {},
+      "gear": {},
+      "feat": {}
+    }
+  },
+  "grid": {
+    "distance": 5,
+    "units": "ft"
+  },
+  "primaryTokenAttribute": "life",
+  "secondaryTokenAttribute": "exertion",
+  "styles": [
+    "styles/vv-0.6.1.css"
+  ],
+  "packs": [
+    {
+      "name": "races",
+      "label": "Races",
+      "type": "Item",
+      "path": "packs/races",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "birthsigns",
+      "label": "Birthsigns",
+      "type": "Item",
+      "path": "packs/birthsigns",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "weapons",
+      "label": "Weapons",
+      "type": "Item",
+      "path": "packs/weapons",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "armours",
+      "label": "Armours",
+      "type": "Item",
+      "path": "packs/armours",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "spells",
+      "label": "Spells",
+      "type": "Item",
+      "path": "packs/spells",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "type": "Item",
+      "path": "packs/classes",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "grimoires",
+      "label": "Grimoires",
+      "type": "Item",
+      "path": "packs/grimoires",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "feats",
+      "label": "Class Feats",
+      "type": "Item",
+      "path": "packs/feats",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "tables",
+      "label": "Roll Tables",
+      "type": "RollTable",
+      "path": "packs/tables",
+      "system": "vice-and-violence"
+    },
+    {
+      "name": "creatures",
+      "label": "Creatures",
+      "type": "Actor",
+      "path": "packs/creatures",
+      "system": "vice-and-violence"
+    }
+  ]
+}

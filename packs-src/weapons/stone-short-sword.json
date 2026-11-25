@@ -1,0 +1,22 @@
+{
+  "_id": "fzwomi3gkTiZTMA5",
+  "_key": "!items!fzwomi3gkTiZTMA5",
+  "name": "Stone Short Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+1 damage plus Brawn. Price 40j.</p>",
+    "kind": "short-sword",
+    "material": "stone",
+    "die": "d4",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

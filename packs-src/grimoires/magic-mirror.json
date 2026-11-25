@@ -1,0 +1,21 @@
+{
+  "_id": "wAGt1xF2ms7ue9KE",
+  "_key": "!items!wAGt1xF2ms7ue9KE",
+  "name": "Magic Mirror",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 6 hours, 20 Spell Uses. Lasts: Indefinitely. Turns two normal mirrors into magic mirrors that objects and, if large enough, people can pass through. With only one mirror it leads to an unknown magic mirror, usually in the bedroom of an incredibly angry wizard. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 20,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

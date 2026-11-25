@@ -1,0 +1,22 @@
+{
+  "_id": "B8f4E4mPL9EMhFDi",
+  "_key": "!items!B8f4E4mPL9EMhFDi",
+  "name": "Stone Dagger",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4+1 damage plus Brawn. Price 35j.</p>",
+    "kind": "dagger",
+    "material": "stone",
+    "die": "d4",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

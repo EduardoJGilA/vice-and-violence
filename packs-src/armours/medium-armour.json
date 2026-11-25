@@ -1,0 +1,22 @@
+{
+  "_id": "HcWi4x5FXaQUXdXv",
+  "_key": "!items!HcWi4x5FXaQUXdXv",
+  "name": "Medium Armour",
+  "type": "armour",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>100j. Armour Save d6; +1 per upgrade (75j).</p>",
+    "category": "medium",
+    "saveDie": "d6",
+    "bonus": 0,
+    "stealthPenalty": 0,
+    "equipped": false
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

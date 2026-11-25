@@ -1,0 +1,21 @@
+{
+  "_id": "jG4LRIwDiceXb5IK",
+  "_key": "!items!jG4LRIwDiceXb5IK",
+  "name": "Mass Paralyse",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. 2d10 damage to d6 targets, which miss 1d4 turns.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

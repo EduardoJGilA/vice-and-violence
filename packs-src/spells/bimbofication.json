@@ -1,0 +1,21 @@
+{
+  "_id": "JqLDynvbYV6eilSH",
+  "_key": "!items!JqLDynvbYV6eilSH",
+  "name": "Bimbofication",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Trade an allied player's Smarts points for Hotness points, up to -5 Smarts. Permanent. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 15,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

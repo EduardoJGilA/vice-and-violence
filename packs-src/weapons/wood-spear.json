@@ -1,0 +1,22 @@
+{
+  "_id": "3rw4Db08QfriYlPi",
+  "_key": "!items!3rw4Db08QfriYlPi",
+  "name": "Wood Spear",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+1 damage plus Brawn. Price 60j.</p>",
+    "kind": "spear",
+    "material": "wood",
+    "die": "d6",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

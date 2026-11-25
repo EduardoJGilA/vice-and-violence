@@ -1,0 +1,19 @@
+{
+  "_id": "I3PkhINh7WS1h675",
+  "_key": "!items!I3PkhINh7WS1h675",
+  "name": "Acrobat",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy or Light armour, climbing man-made surfaces needs no rope or Moxie check.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

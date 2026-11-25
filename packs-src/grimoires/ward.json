@@ -1,0 +1,21 @@
+{
+  "_id": "YmRwv4bFlcZisTdN",
+  "_key": "!items!YmRwv4bFlcZisTdN",
+  "name": "Ward",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 15 minutes, 10 Spell Uses. Lasts: 3 hours. A 30 feet circle around the caster. Name up to five things; all instances of them cannot cross the circle (for instance crossbow bolts). Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 10,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

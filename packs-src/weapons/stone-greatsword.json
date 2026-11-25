@@ -1,0 +1,22 @@
+{
+  "_id": "mItDhknMQuq6A0QL",
+  "_key": "!items!mItDhknMQuq6A0QL",
+  "name": "Stone Greatsword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d10+1 damage plus Brawn. Price 95j.</p>",
+    "kind": "greatsword",
+    "material": "stone",
+    "die": "d10",
+    "materialBonus": 1,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

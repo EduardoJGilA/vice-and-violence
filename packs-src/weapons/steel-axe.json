@@ -1,0 +1,22 @@
+{
+  "_id": "rzVveyuS1Gtw7IYv",
+  "_key": "!items!rzVveyuS1Gtw7IYv",
+  "name": "Steel Axe",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+3 damage plus Brawn. Price 130j.</p>",
+    "kind": "axe",
+    "material": "steel",
+    "die": "d8",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

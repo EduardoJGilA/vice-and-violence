@@ -1,0 +1,19 @@
+{
+  "_id": "6FUo4GZqBS4HDmei",
+  "_key": "!items!6FUo4GZqBS4HDmei",
+  "name": "Slippery*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy or Light armour, +5 to escape from being Restrained.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

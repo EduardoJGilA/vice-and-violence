@@ -1,0 +1,23 @@
+{
+  "_id": "sBKmqkVjJdzD08dX",
+  "_key": "!items!sBKmqkVjJdzD08dX",
+  "name": "Centaur",
+  "type": "race",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d12 result 7. +1 to one Ability of your choice (asked when dropped on a sheet).</p>",
+    "smarts": 0,
+    "brawn": 0,
+    "moxie": 0,
+    "hotness": 0,
+    "pickPlus": 1,
+    "pickMinus": 0
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "h94x8YoC2QDAMopq",
+  "_key": "!items!h94x8YoC2QDAMopq",
+  "name": "Gap'r: Holy Vial of Fuck Slime",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Medium armour, cast Heal as a Tactical Action, and cast Tame Living Trap and Speak with Animals without rolling.</p>",
+    "classType": "cleric",
+    "requirement": "500j"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "RelEGnxjypMhZYVa",
+  "_key": "!items!RelEGnxjypMhZYVa",
+  "name": "Emergency Blood Transfer",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Source text unreadable in the OCR; verify in the book. No Spell Uses or casting roll: sacrifice LIFE with up to two dice no higher than d10.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

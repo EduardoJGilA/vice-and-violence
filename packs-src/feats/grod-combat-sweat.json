@@ -1,0 +1,19 @@
+{
+  "_id": "YJvWgDqoCjI6ymVY",
+  "_key": "!items!YJvWgDqoCjI6ymVY",
+  "name": "Grod: Combat Sweat",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Full armour, dealing damage heals you or an ally for 1 point.</p>",
+    "classType": "cleric",
+    "requirement": "250j"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

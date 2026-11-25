@@ -1,0 +1,21 @@
+{
+  "_id": "3FqgBBcMXgLo97dP",
+  "_key": "!items!3FqgBBcMXgLo97dP",
+  "name": "Weightlessness",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Target is weightless: climbs without a Dice Challenge, +5 to Stealth, thrown back when attacked. Lasts thirty minutes.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

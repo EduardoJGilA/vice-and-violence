@@ -1,0 +1,19 @@
+{
+  "_id": "dSCrJ5YfMm6WKHIp",
+  "_key": "!items!dSCrJ5YfMm6WKHIp",
+  "name": "Underworld Contacts*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Hire one Thief, Strumpet or Mercenary without paying for their services.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

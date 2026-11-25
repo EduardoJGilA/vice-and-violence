@@ -1,0 +1,21 @@
+{
+  "_id": "IBYktzXRAI3dgfJy",
+  "_key": "!items!IBYktzXRAI3dgfJy",
+  "name": "Mountain of Muscle",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Trade an allied player's Smarts points for Brawn points, up to -5 Smarts. Permanent. Needs an equipped Magic Staff and Skimpy armour or none.</p>",
+    "school": "advanced",
+    "costType": "spellUses",
+    "cost": 18,
+    "minRank": "apprentice"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

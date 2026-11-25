@@ -1,0 +1,21 @@
+{
+  "_id": "ZexlAIrvcCyDL0Ua",
+  "_key": "!items!ZexlAIrvcCyDL0Ua",
+  "name": "Enchant Weapon / Armour",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. Adds d6 + your Level to your or an ally's weapon damage, or to armour. Roll the d6 after a successful cast. Lasts 24 hours.</p>",
+    "school": "light",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

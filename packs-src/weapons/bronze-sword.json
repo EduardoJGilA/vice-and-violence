@@ -1,0 +1,22 @@
+{
+  "_id": "jV4Q6BHhO7NpSxH6",
+  "_key": "!items!jV4Q6BHhO7NpSxH6",
+  "name": "Bronze Sword",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+2 damage plus Brawn. Price 70j.</p>",
+    "kind": "sword",
+    "material": "bronze",
+    "die": "d6",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

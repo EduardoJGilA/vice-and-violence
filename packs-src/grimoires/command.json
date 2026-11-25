@@ -1,0 +1,21 @@
+{
+  "_id": "3y9TIygySlBPZl2N",
+  "_key": "!items!3y9TIygySlBPZl2N",
+  "name": "Command",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 6 hours, 15 Spell Uses. Lasts: Indefinitely. The target obeys a single command, no matter its intelligence or how dangerous or self-destructive. Afterwards, if it can, it regains its own will. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 15,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

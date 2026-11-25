@@ -1,0 +1,20 @@
+{
+  "_id": "8gg45fmj12voY8Xl",
+  "_key": "!items!8gg45fmj12voY8Xl",
+  "name": "Fighter",
+  "type": "class",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Learned at city Arenas. Tiers 1-4 unlock 3/5/7/9 skills: Bulwark, Skirmisher (two weapons), Loud, Berserker, Spellsword, Knightly, Second Wind (Brawn x Moxie LIFE), Roar and more. Martial Skills (DC 14+Brawn): Taunt, Protect, Cleave, Stab, Lunge.</p>",
+    "classType": "fighter",
+    "learningLevel": 0,
+    "skills": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

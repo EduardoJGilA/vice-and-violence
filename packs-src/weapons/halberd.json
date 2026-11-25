@@ -1,0 +1,22 @@
+{
+  "_id": "NwCQdxBKySCtbVOB",
+  "_key": "!items!NwCQdxBKySCtbVOB",
+  "name": "Halberd",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>2d8 damage plus Brawn. Price 100j. Can attack Nearby targets, or attack past allies.</p>",
+    "kind": "halberd",
+    "material": "none",
+    "die": "2d8",
+    "materialBonus": 0,
+    "range": "nearby"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

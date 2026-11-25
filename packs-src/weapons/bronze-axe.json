@@ -1,0 +1,22 @@
+{
+  "_id": "5KgIOHOInX3i4t9o",
+  "_key": "!items!5KgIOHOInX3i4t9o",
+  "name": "Bronze Axe",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+2 damage plus Brawn. Price 90j.</p>",
+    "kind": "axe",
+    "material": "bronze",
+    "die": "d8",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

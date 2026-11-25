@@ -1,0 +1,19 @@
+{
+  "_id": "Zcf0z6uUxeJE8p7E",
+  "_key": "!items!Zcf0z6uUxeJE8p7E",
+  "name": "Cowled Lady: Kill Them All*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>If you down an enemy you regain your Combat Action and may use it immediately.</p>",
+    "classType": "warlock",
+    "requirement": "6 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

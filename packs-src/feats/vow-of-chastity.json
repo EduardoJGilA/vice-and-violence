@@ -1,0 +1,19 @@
+{
+  "_id": "cNnWPBtxt7iR4Apv",
+  "_key": "!items!cNnWPBtxt7iR4Apv",
+  "name": "Vow of Chastity",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Never have sex as distraction, trickery or negotiation.</p>",
+    "classType": "paladin",
+    "requirement": "Vow"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

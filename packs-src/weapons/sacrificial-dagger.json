@@ -1,0 +1,22 @@
+{
+  "_id": "4SifeUXFRCRGl3BY",
+  "_key": "!items!4SifeUXFRCRGl3BY",
+  "name": "Sacrificial Dagger",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d4 damage plus Brawn. Price 65j. Adds d4 to Blood Magic spells without losing Life, OR adds the damage dealt to a Vampire's Blood Gauge.</p>",
+    "kind": "sacrificial-dagger",
+    "material": "none",
+    "die": "d4",
+    "materialBonus": 0,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

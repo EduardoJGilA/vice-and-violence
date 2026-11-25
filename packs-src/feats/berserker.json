@@ -1,0 +1,19 @@
+{
+  "_id": "qoO2LI0el4aBxSC5",
+  "_key": "!items!qoO2LI0el4aBxSC5",
+  "name": "Berserker",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Double the Fighter's added Brawn damage with a two-handed (above d8) weapon.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 2"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

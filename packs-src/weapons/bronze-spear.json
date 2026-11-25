@@ -1,0 +1,22 @@
+{
+  "_id": "p8TAwA68GNLWeTVL",
+  "_key": "!items!p8TAwA68GNLWeTVL",
+  "name": "Bronze Spear",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d6+2 damage plus Brawn. Price 80j.</p>",
+    "kind": "spear",
+    "material": "bronze",
+    "die": "d6",
+    "materialBonus": 2,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

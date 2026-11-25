@@ -1,0 +1,19 @@
+{
+  "_id": "xPCNqw9g4atynHZn",
+  "_key": "!items!xPCNqw9g4atynHZn",
+  "name": "Backstab*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Daggers and short swords deal double damage against an enemy that attacked someone other than you this round.</p>",
+    "classType": "thief",
+    "requirement": "Thief skill"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "PoVjSOb62OSIpf5F",
+  "_key": "!items!PoVjSOb62OSIpf5F",
+  "name": "Bulwark",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Using a Heavy Shield no longer costs a Tactical Action.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 1"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

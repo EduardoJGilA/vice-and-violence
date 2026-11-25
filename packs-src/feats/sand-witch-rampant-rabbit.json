@@ -1,0 +1,19 @@
+{
+  "_id": "gK1tJB7lfWM16uFi",
+  "_key": "!items!gK1tJB7lfWM16uFi",
+  "name": "Sand Witch: Rampant Rabbit*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Spend two Exertion uses to take another turn immediately, refreshing Combat and Tactical Actions.</p>",
+    "classType": "warlock",
+    "requirement": "6 Level Ups"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

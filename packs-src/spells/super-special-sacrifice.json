@@ -1,0 +1,21 @@
+{
+  "_id": "Aw2TysiAT82HiUZ5",
+  "_key": "!items!Aw2TysiAT82HiUZ5",
+  "name": "Super Special Sacrifice",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ritual, once only. Requires as many living sacrifices as participants, takes 24 hours. All party members Level Up; allied NPCs gain +3 Life and +1 damage.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,21 @@
+{
+  "_id": "Crapa2PutZwbqTV5",
+  "_key": "!items!Crapa2PutZwbqTV5",
+  "name": "Illusion",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Grimoire (400j). Requires: 30 minutes, 6 Spell Uses. Lasts: 15 minutes. A harmless, inanimate visual illusion of the caster's choice that dissipates when touched. Great for frightening old people. Cast from a book: not usable in combat; Skimpy armour or none; if the caster joins combat the spell is interrupted.</p>",
+    "school": "grimoire",
+    "costType": "spellUses",
+    "cost": 6,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

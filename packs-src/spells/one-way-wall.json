@@ -1,0 +1,21 @@
+{
+  "_id": "nFuqvCPHU3Af0Pae",
+  "_key": "!items!nFuqvCPHU3Af0Pae",
+  "name": "One Way Wall",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Makes the wall to the next room transparent to you; those inside don't notice.</p>",
+    "school": "utility",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

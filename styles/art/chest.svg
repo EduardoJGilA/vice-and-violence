@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='180' height='150' viewBox='0 0 180 150'>
+<defs><filter id='w' x='-5%' y='-5%' width='110%' height='110%'><feTurbulence type='fractalNoise' baseFrequency='0.03' numOctaves='2' seed='3' result='t'/><feDisplacementMap in='SourceGraphic' in2='t' scale='2.5'/></filter></defs>
+<g filter='url(#w)' stroke='#1b1209' stroke-width='4' stroke-linejoin='round' stroke-linecap='round'>
+<path d='M42 118 L42 128 L24 138 L62 138 L56 126 L56 118Z M124 118 L124 128 L106 138 L144 138 L138 126 L138 118Z' fill='#7a4a28'/>
+<path d='M20 118 L20 68 L160 68 L160 118Z' fill='#a8693a'/>
+<path d='M20 68 C20 22 160 22 160 68Z' fill='#c98650'/>
+<path d='M24 68 L34 90 L46 68 L58 90 L70 68 L82 90 L94 68 L106 90 L118 68 L130 90 L142 68 L154 90 L158 68Z' fill='#fff7e0'/>
+<rect x='76' y='44' width='28' height='34' rx='5' fill='#e6b84a'/><circle cx='90' cy='60' r='5' fill='#1b1209' stroke='none'/>
+<path d='M20 86 L160 86' stroke-width='3' opacity='.0'/>
+<ellipse cx='52' cy='46' rx='15' ry='18' fill='#fffbe9'/><circle cx='57' cy='48' r='7' fill='#1b1209' stroke='none'/><circle cx='54' cy='43' r='2.6' fill='#fff' stroke='none'/>
+<ellipse cx='128' cy='46' rx='15' ry='18' fill='#fffbe9'/><circle cx='133' cy='48' r='7' fill='#1b1209' stroke='none'/><circle cx='130' cy='43' r='2.6' fill='#fff' stroke='none'/>
+<path d='M18 38 Q34 30 44 26 M162 38 Q146 30 136 26' fill='none' stroke-width='5'/>
+</g></svg>

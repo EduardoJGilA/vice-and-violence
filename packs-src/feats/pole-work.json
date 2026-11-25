@@ -1,0 +1,19 @@
+{
+  "_id": "Xhpxb72QKAGHyOjB",
+  "_key": "!items!Xhpxb72QKAGHyOjB",
+  "name": "Pole Work*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Skimpy armour with a Staff, Magic Staff, Spear or Halberd: +1 to all melee damage.</p>",
+    "classType": "dancer",
+    "requirement": "1 session"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "UbLO6sQI6SqiEQp3",
+  "_key": "!items!UbLO6sQI6SqiEQp3",
+  "name": "Glass Axe",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d8+3 damage plus Brawn. Price 130j.</p>",
+    "kind": "axe",
+    "material": "glass",
+    "die": "d8",
+    "materialBonus": 3,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "rIVag9H3TsnodsLD",
+  "_key": "!items!rIVag9H3TsnodsLD",
+  "name": "Vow of Justice",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Aim to do good and work against selfishness and tyranny. Every Level Up gain +2 Spell Uses in addition to your normal choices.</p>",
+    "classType": "paladin",
+    "requirement": "Vow"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

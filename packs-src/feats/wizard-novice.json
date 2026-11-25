@@ -1,0 +1,19 @@
+{
+  "_id": "nJqMefaDKzXGvZqq",
+  "_key": "!items!nJqMefaDKzXGvZqq",
+  "name": "Wizard Novice",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Three Spells Known; gain 4 Spell Uses.</p>",
+    "classType": "wizard",
+    "requirement": "Rank 1"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

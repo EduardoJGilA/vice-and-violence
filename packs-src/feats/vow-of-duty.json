@@ -1,0 +1,19 @@
+{
+  "_id": "bsDnivBlXKa8Zgsz",
+  "_key": "!items!bsDnivBlXKa8Zgsz",
+  "name": "Vow of Duty",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Avoid quests and coin from the extremely wealthy. Cast Shield as a Tactical Action, once per turn.</p>",
+    "classType": "paladin",
+    "requirement": "Vow"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

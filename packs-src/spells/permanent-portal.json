@@ -1,0 +1,21 @@
+{
+  "_id": "XOSSoA6j3aiN5iGO",
+  "_key": "!items!XOSSoA6j3aiN5iGO",
+  "name": "Permanent Portal",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Ritual. Requires the sacrifice of two living people, at the same time, at either end of the portal.</p>",
+    "school": "blood",
+    "costType": "life",
+    "cost": 0,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

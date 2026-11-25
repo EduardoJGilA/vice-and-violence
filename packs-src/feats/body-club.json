@@ -1,0 +1,19 @@
+{
+  "_id": "zZTKR0tfTorRyw7O",
+  "_key": "!items!zZTKR0tfTorRyw7O",
+  "name": "Body Club*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Use a humanoid enemy with less current Life as an improvised weapon: d10 + Brawn damage dealt to both the enemy used and the target. DC 12 to wriggle away.</p>",
+    "classType": "fighter",
+    "requirement": "Tier 2"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

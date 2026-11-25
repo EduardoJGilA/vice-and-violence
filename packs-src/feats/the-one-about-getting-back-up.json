@@ -1,0 +1,19 @@
+{
+  "_id": "CSUiKgZCZKNaDG96",
+  "_key": "!items!CSUiKgZCZKNaDG96",
+  "name": "The One About Getting Back Up*",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Once per combat heals a Downed target for double the Proficiency Modifier; a formerly hostile target becomes non-hostile and gains that much Disposition.</p>",
+    "classType": "bard",
+    "requirement": "Song"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

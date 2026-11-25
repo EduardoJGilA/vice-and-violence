@@ -1,0 +1,21 @@
+{
+  "_id": "iT4T2bUIqCugxb5i",
+  "_key": "!items!iT4T2bUIqCugxb5i",
+  "name": "Lightning",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 1. 2d6 damage to d4 targets. Can electrify puddles and power magical devices.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

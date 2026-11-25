@@ -1,0 +1,22 @@
+{
+  "_id": "0ymDYUpqm2HCAEJl",
+  "_key": "!items!0ymDYUpqm2HCAEJl",
+  "name": "Flail",
+  "type": "weapon",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>d10 damage plus Brawn. Price 75j. If the user rolls a 1 they hit themselves in the groin for d6; on a 10 it deals double damage.</p>",
+    "kind": "flail",
+    "material": "none",
+    "die": "d10",
+    "materialBonus": 0,
+    "range": "adjacent"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

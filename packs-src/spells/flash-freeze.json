@@ -1,0 +1,21 @@
+{
+  "_id": "Nl4JLzN0TACECjs8",
+  "_key": "!items!Nl4JLzN0TACECjs8",
+  "name": "Flash Freeze",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>Level 5. Restrain a target until it rolls a DC12 Dice Challenge to break free. No damage itself, but damage dealt to it is doubled until it unfreezes.</p>",
+    "school": "death",
+    "costType": "spellUses",
+    "cost": 1,
+    "minRank": ""
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}

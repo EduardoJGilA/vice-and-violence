@@ -1,0 +1,19 @@
+{
+  "_id": "11F91lVKeY5MlcUf",
+  "_key": "!items!11F91lVKeY5MlcUf",
+  "name": "Grod: Poetry Collection",
+  "type": "feat",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "<p>In Full armour, gain +1 Tactical Action in a turn.</p>",
+    "classType": "cleric",
+    "requirement": "200j"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {}
+}
